@@ -1,0 +1,5 @@
+O que acontece se um consumidor iniciar uma tarefa longa e ela terminar antes de ser concluída? Uma vez que o RabbitMQ entrega uma mensagem ao consumidor, ele imediatamente a marca para exclusão. Nesse caso, se você encerrar um trabalhador, perderá a mensagem que ele estava processando. As mensagens que foram despachadas para esse trabalhador específico, mas ainda não foram tratadas, também são perdidas.
+
+Para garantir que uma mensagem nunca seja perdida, o RabbitMQ oferece suporte a confirmações de mensagens. Uma ACK (acknowledgment) é enviada de volta pelo consumidor para informar ao RabbitMQ que uma mensagem específica foi recebida, processada e que o RabbitMQ está livre para excluí-la.
+
+Se um consumidor morrer (seu canal for fechado, a conexão for fechada ou a conexão TCP for perdida) sem enviar um ACK, o RabbitMQ entenderá que uma mensagem não foi totalmente processada e a colocará novamente na fila. Se houver outros consumidores online ao mesmo tempo, ele o reenviará rapidamente para outro consumidor. Dessa forma, você pode ter certeza de que nenhuma mensagem será perdida, mesmo que os trabalhadores morram ocasionalmente.

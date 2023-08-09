@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "0b91868e03538205",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3a477dd323012f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1fde3f6788c0696c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "61bf1e53308efcc4",
+    "type": "split",
+    "children": [
+      {
+        "id": "753387dae49f59ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0856d816664a5b5c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e18cd4ff2780f3e1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Tailwind",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8492a41d831c44c4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 231.5
+  },
+  "right": {
+    "id": "dfd67e4050309cbf",
+    "type": "split",
+    "children": [
+      {
+        "id": "8689a8a9a006797b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "626091ae34a7c78d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c2fce19065ba988d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "187312d92f3e5834",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ec864f8985949c26",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "workspaces:Gerenciar leiautes da área de trabalho": false
+    }
+  },
+  "active": "1fde3f6788c0696c",
+  "lastOpenFiles": [
+    "Ferramentas/JSON Web Token (JWT).md",
+    "Ferramentas/RabbitMQ.md",
+    "RabbitMQ/Message durability.md",
+    "Round-robin dispatching.md",
+    "Linguagens/TypeScript.md",
+    "RabbitMQ/Remote Call Response.md",
+    "imgs/Pasted image 20230809031854.png",
+    "RabbitMQ/Message acknowledgment.md",
+    "RabbitMQ/Exchanges.md",
+    "RabbitMQ/Dispatch.md",
+    "RabbitMQ/Round-robin dispatching.md",
+    "Linguagens/Node.md",
+    "React/Compound Components Pattern.md",
+    "React/Portal.md",
+    "React/Lazy Loading.md",
+    "React/Custom Hooks.md",
+    "React/Context API.md",
+    "imgs/Pasted image 20230808055443.png",
+    "imgs/Pasted image 20230808045146.png",
+    "Ferramentas/PM2.md",
+    "imgs/Pasted image 20230808041237.png",
+    "RabbitMQ",
+    "imgs/Pasted image 20230802222700.png",
+    "imgs/Pasted image 20230804174622.png",
+    "imgs/Pasted image 20230807045301.png",
+    "imgs/Pasted image 20230807045342.png",
+    "imgs/Pasted image 20230808034301.png",
+    "imgs/react-portal-use.gif",
+    "Ferramentas/GraphQL.md",
+    "Linguagens/Python.md",
+    "Linguagens/PHP.md",
+    "Linguagens/React Native.md",
+    "Linguagens/C.md",
+    "Linguagens/Angular.md",
+    "Linguagens/React.md",
+    "Linguagens/JavaScript.md",
+    "Frameworks & Bibliotecas/Zod.md",
+    "imgs",
+    "Sem título.canvas",
+    "React",
+    "Cloud/AWS",
+    "Cloud",
+    "Frameworks & Bibliotecas",
+    "Ferramentas",
+    "Linguagens",
+    "Computador",
+    "aaaa"
+  ]
+}
