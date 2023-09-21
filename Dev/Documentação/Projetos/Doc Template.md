@@ -1,6 +1,3 @@
-**This template can be used either for your users or your team members.**
-
-Adapt it to your need, depending if you want to document for internal or external usage.
 
 > **Software Name:** The Software
 > 
@@ -68,12 +65,3 @@ Include any additional information, forum or documentation that might be relevan
 
 ![Explainer 6.jpg](https://smurfgahbarbosa.slite.com/api/files/1pgxLW-j0zw-FX/Explainer%206.jpg)
 
-## Customer support 💬
-
-If users need extra assistance or have any troubleshooting issues, provide contact information to your customer support or link them to online assistance or chat portals here.
-
----
-
-**Make it your own**
-
-Once edited to your liking, [save this template to your team’s templates list](http://help.slite.com/en/articles/2622390-document-templates) by clicking on the three dots on the right of the screen.

@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "77bdc1efbceea1da",
+        "id": "a92bacc05c580efb",
         "type": "tabs",
         "children": [
           {
-            "id": "320219badee42a4f",
+            "id": "cb6ef662e00c5cfb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To do.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ef5788a5267f24b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dev/GraphQL/Apollo.md",
+                "file": "Dev/Projetos/JavaScript/Flow Fields.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5
+    "width": 316.5
   },
   "right": {
     "id": "dfd67e4050309cbf",
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To do.md",
+                "file": "Dev/Projetos/JavaScript/Flow Fields.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "To do.md",
+                "file": "Dev/Projetos/JavaScript/Flow Fields.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To do.md"
+                "file": "Dev/Projetos/JavaScript/Flow Fields.md"
+              }
+            }
+          },
+          {
+            "id": "802de1dcc46ad885",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -160,54 +158,55 @@
       "workspaces:Gerenciar leiautes da área de trabalho": false
     }
   },
-  "active": "320219badee42a4f",
+  "active": "cb6ef662e00c5cfb",
   "lastOpenFiles": [
-    "Dev/Metodologia/Arquitetura Orientada a Serviços.md",
-    "Dev/Metodologia/Arquitetura Orientada a Eventos.md",
+    "Dev/Portfolio/let me ask.md",
+    "Dev/Portfolio/todo.md",
+    "Dev/Projetos/JavaScript/Flow Fields.md",
+    "Dev/Portfolio",
     "To do.md",
-    "Dev/GraphQL/Apollo.md",
-    "Dev/AMQP/RabbitMQ.md",
-    "Dev/Documentação/Projetos/Doc Template.md",
-    "Dev/Documentação/Projetos",
-    "Dev/Documentação",
-    "Dev/Ferramentas/XMPP.md",
-    "Dev/XMPP/OpenFire.md",
-    "Dev/XMPP",
-    "Dev/Metodologia/TDD.md",
-    "Dev/Metodologia/DDD.md",
-    "Dev/Metodologia/CI  CD.md",
-    "Dev/Metodologia/Scrum.md",
-    "Dev/Metodologia/SOLID.md",
-    "Game Design/Conceitos/Hit Box.md",
-    "Dev/Sem título 1",
-    "Dev/Metodologia",
+    "Dev/Linguagens/HTML/File.md",
+    "Dev/Ferramentas/Message Broker/RabbitMQ/RabbitMQ.md",
+    "Dev/Projetos/JavaScript/Geometry Node.md",
+    "Dev/Linguagens/JavaScript/JSON Web Token (JWT).md",
+    "Dev/Linguagens/JavaScript/JavaScript.md",
+    "Dev/Linguagens/JavaScript/Axios.md",
+    "Dev/Linguagens/JavaScript/Array Methods.md",
+    "Dev/Linguagens/HTML/Keygen.md",
+    "Dev/Linguagens/HTML/HTML.md",
+    "Dev/Linguagens/Node/Node.md",
+    "Dev/Linguagens/Node/PM2.md",
+    "Dev/Linguagens/Node/Nest.js.md",
+    "Dev/Linguagens/Node/Express.md",
+    "Dev/Linguagens/WebAssembly.md",
+    "Dev/Protocolos/MQTT.md",
+    "Dev/Protocolos/HTTPS.md",
+    "Dev/Protocolos/HTTP.md",
+    "Dev/Protocolos/FTP.md",
+    "Dev/Protocolos/AMQP.md",
+    "Game Design/Conceitos/Jogos 2D/Sprite.md",
     "Game Design/Conceitos/Proximity Box.md",
     "Game Design/Conceitos/Hurt Box.md",
-    "Game Design/Conceitos/Jogos 2D/Sprite.md",
-    "Matemática/Vetor.md",
-    "Matemática/Razão.md",
-    "Física/Eletricidade/Corrente/Corrente.md",
-    "Física/Eletricidade/Voltagem.md",
-    "Física/Eletricidade/Resistência.md",
-    "Física/Eletricidade/Potência.md",
-    "Física/Eletricidade/Eletricidade.md",
-    "Física/Eletricidade/Unidades de medida/Watt.md",
-    "Física/Eletricidade/Unidades de medida/Ohm.md",
-    "Projetos/React Native",
-    "Projetos",
-    "Física/Imagens/Pasted image 20230821115517.png",
-    "Pasted image 20230821115456.png",
-    "Física/Imagens/Pasted image 20230821115009.png",
-    "Física/Imagens",
-    "Pasted image 20230821114952.png",
-    "Física/Eletricidade/Corrente",
-    "Física/Eletricidade/Unidades de medida",
-    "Matemática/Imagens/Pasted image 20230819150313.png",
-    "Matemática/Imagens/Pasted image 20230819155745.png",
-    "Matemática/Imagens/Pasted image 20230819155814.png",
-    "Matemática/Imagens/Pasted image 20230819154636.png",
-    "Matemática/Imagens/Pasted image 20230819144527.png",
-    "Pasted image 20230819154618.png",
+    "Pasted image 20230912041531.png",
+    "Design/Conceitos",
+    "Pasted image 20230913101843.png",
+    "Pasted image 20230913095721.png",
+    "Jogos/Destiny/Raid/Câmara de cristal/Imagens/Pasted image 20230912041231.png",
+    "Jogos/Destiny/Raid/Câmara de cristal/Imagens/Pasted image 20230912041223.png",
+    "Jogos/Destiny/Raid/Câmara de cristal/Imagens/Pasted image 20230912041211.png",
+    "Jogos/Destiny/Raid/Câmara de cristal/Imagens/Pasted image 20230912041112.png",
+    "Jogos/Destiny/Raid/Câmara de cristal/Imagens/Pasted image 20230912041105.png",
+    "Jogos/Destiny/Raid/Câmara de cristal/Imagens/Pasted image 20230912040954.png",
+    "Jogos/Destiny/Raid/Câmara de cristal/Imagens/Pasted image 20230912040656.png",
+    "Jogos/Destiny/Raid/Câmara de cristal/Imagens",
+    "Jogos/Destiny/Imagens/ammo",
+    "Jogos/Destiny/Raid/Câmara de cristal/New Light/Sem título",
+    "Dev/Projetos/JavaScript",
+    "Jogos/Valorant/Estático",
+    "Jogos/Valorant/Flick",
+    "Jogos/Valorant/Strafe",
+    "Jogos/LoL",
+    "Destiny/Raid/Câmara de cristal/New Light/Sem título.canvas",
     "Sem título.canvas"
   ]
 }

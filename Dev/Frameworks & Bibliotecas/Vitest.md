@@ -1,6 +1,6 @@
 Framework de testes, compatível com [[Jest]], e desenvolvido em Vite .
 
-ESM nativo e Out-of-the-box TypeScript não necessitando de uma biblioteca de asserção separada. Requer configuração mínima e execução mais rápida em comparação com projetos baseados em [[Jest]] e Babel.
+ESM nativo e Out-of-the-box [[TypeScript]] não necessitando de uma biblioteca de asserção separada. Requer configuração mínima e execução mais rápida em comparação com projetos baseados em [[Jest]] e Babel.
 
 ```javascript
 // sum.js

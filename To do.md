@@ -1,20 +1,21 @@
-- [x] Manutenção
 - [ ] Manutenção
-- [x] Prioridade
+- [ ] Manutenção
+- [ ] Exercício
+- [ ] Prioridade
 - [ ] Evolução
 - [ ] Evolução
-- [x] Lazer
-
+- [ ] Lazer
 ## Manutenção
-- Arrumar o guarda-roupa (21/08)
-- Limpar o Quarto 
-- Mesa arrumada (21/08)
-- Lavar a roupa
+- Arrumar o guarda-roupa (19/09)
+- Limpar o Quarto (19/09)
+- Mesa arrumada (19/09)
+- Lavar a roupa (16/09)
+- Lavar o  banheiro (16/09)
 - Tentar consertar a impressora 3d
 - Tentar consertar o fone (22/08)
 ## Prioridade
 - Procurar emprego
-- Programar algum projeto
+- Programar algum projeto (21/09)
 ## Lazer
 - Ler Livro
 - Tocar Guitarra
@@ -27,5 +28,10 @@
 - Estudar Programação
 - Estudar Física (21/08)
 - Estudar Psicologia 
+- Estudar Calistenia
+- Estudar Nutrição
 - Curso de Aws
 - Estudar como cozinhar
+
+## Exercício
+- montar treino de calistenia 
