@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a92bacc05c580efb",
+        "id": "bd2b6b840fa5d042",
         "type": "tabs",
         "children": [
           {
-            "id": "cb6ef662e00c5cfb",
+            "id": "012d5fc5adcb5403",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/Projetos/JavaScript/Flow Fields.md",
+                "file": "Dev/Portfolio/gRPC.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Tailwind",
+                "query": "tag:fazer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,6 +62,14 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "1d4638432a807be3",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
               "state": {}
             }
           }
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev/Projetos/JavaScript/Flow Fields.md",
+                "file": "Dev/Portfolio/gRPC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev/Projetos/JavaScript/Flow Fields.md",
+                "file": "Dev/Portfolio/gRPC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dev/Projetos/JavaScript/Flow Fields.md"
+                "file": "Dev/Portfolio/gRPC.md"
               }
             }
           },
@@ -158,37 +166,46 @@
       "workspaces:Gerenciar leiautes da área de trabalho": false
     }
   },
-  "active": "cb6ef662e00c5cfb",
+  "active": "012d5fc5adcb5403",
   "lastOpenFiles": [
-    "Dev/Portfolio/let me ask.md",
-    "Dev/Portfolio/todo.md",
-    "Dev/Projetos/JavaScript/Flow Fields.md",
-    "Dev/Portfolio",
-    "To do.md",
-    "Dev/Linguagens/HTML/File.md",
-    "Dev/Ferramentas/Message Broker/RabbitMQ/RabbitMQ.md",
-    "Dev/Projetos/JavaScript/Geometry Node.md",
-    "Dev/Linguagens/JavaScript/JSON Web Token (JWT).md",
-    "Dev/Linguagens/JavaScript/JavaScript.md",
-    "Dev/Linguagens/JavaScript/Axios.md",
-    "Dev/Linguagens/JavaScript/Array Methods.md",
-    "Dev/Linguagens/HTML/Keygen.md",
-    "Dev/Linguagens/HTML/HTML.md",
-    "Dev/Linguagens/Node/Node.md",
-    "Dev/Linguagens/Node/PM2.md",
+    "Dev/Portfolio/Flow Field.md",
+    "Dev/Portfolio/gRPC.md",
+    "Dev/Conceitos/BFF.md",
+    "Dev/Protocolos/gRPC.md",
+    "Dev/Protocolos/REST.md",
+    "Dev/Protocolos/HTTP 2.md",
+    "Dev/Conceitos/Payload.md",
+    "Dev/DataBase/DTO.md",
+    "Dev/Linguagens/Docker/Image.md",
+    "Dev/Linguagens/Docker/Container.md",
     "Dev/Linguagens/Node/Nest.js.md",
-    "Dev/Linguagens/Node/Express.md",
-    "Dev/Linguagens/WebAssembly.md",
-    "Dev/Protocolos/MQTT.md",
-    "Dev/Protocolos/HTTPS.md",
-    "Dev/Protocolos/HTTP.md",
-    "Dev/Protocolos/FTP.md",
-    "Dev/Protocolos/AMQP.md",
-    "Game Design/Conceitos/Jogos 2D/Sprite.md",
-    "Game Design/Conceitos/Proximity Box.md",
-    "Game Design/Conceitos/Hurt Box.md",
-    "Pasted image 20230912041531.png",
-    "Design/Conceitos",
+    "Dev/Linguagens/Docker/Docker.md",
+    "Dev/Virtual Machine/Virtual Machine.md",
+    "Dev/Linguagens/Docker",
+    "Dev/Virtual Machine/Wsl.md",
+    "Dev/Virtual Machine/Sem título",
+    "Dev/Protocolos/Protocol Buffers.md",
+    "Dev/Virtual Machine",
+    "To do.md",
+    "Dev/Linguagens/React/useEffect.md",
+    "Dev/Linguagens/React/useState.md",
+    "Dev/Linguagens/React/Ref.md",
+    "Dev/Conceitos/VPS.md",
+    "Dev/Linguagens/Node/PM2.md",
+    "Dev/Linguagens/Node/Node.md",
+    "Dev/Linguagens/JavaScript/JavaScript V8.md",
+    "Dev/Linguagens/C++.md",
+    "Dev/Conceitos/IDE.md",
+    "Dev/Linguagens/TypeScript/Zod.md",
+    "Dev/Imagens/Pasted image 20231009082241.png",
+    "Dev/Arquiteturas",
+    "Arte/Gestos",
+    "Culinária/Queijo/Tipos/Queijo Fresco/Sem título",
+    "Culinária/Queijo/Tipos/Queijo Fresco",
+    "Culinária/Imagens",
+    "Culinária/Sem título",
+    "Culinária/Queijo/Tipos",
+    "Jogos/Destiny/Imagens/Pasted image 20230912041531.png",
     "Pasted image 20230913101843.png",
     "Pasted image 20230913095721.png",
     "Jogos/Destiny/Raid/Câmara de cristal/Imagens/Pasted image 20230912041231.png",
@@ -197,15 +214,6 @@
     "Jogos/Destiny/Raid/Câmara de cristal/Imagens/Pasted image 20230912041112.png",
     "Jogos/Destiny/Raid/Câmara de cristal/Imagens/Pasted image 20230912041105.png",
     "Jogos/Destiny/Raid/Câmara de cristal/Imagens/Pasted image 20230912040954.png",
-    "Jogos/Destiny/Raid/Câmara de cristal/Imagens/Pasted image 20230912040656.png",
-    "Jogos/Destiny/Raid/Câmara de cristal/Imagens",
-    "Jogos/Destiny/Imagens/ammo",
-    "Jogos/Destiny/Raid/Câmara de cristal/New Light/Sem título",
-    "Dev/Projetos/JavaScript",
-    "Jogos/Valorant/Estático",
-    "Jogos/Valorant/Flick",
-    "Jogos/Valorant/Strafe",
-    "Jogos/LoL",
     "Destiny/Raid/Câmara de cristal/New Light/Sem título.canvas",
     "Sem título.canvas"
   ]

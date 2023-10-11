@@ -1,6 +1,7 @@
 - [ ] Portfolio
 	- [ ] fazer template para cada projeto 
 	- [ ] template de cada linguagem e tecnologia
+	- [ ] https://dvlpr.pro/#portfolio
 
 - [ ] let me ask
 	- [ ] refatorar código para voltar a funcionar

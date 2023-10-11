@@ -1,3 +1,4 @@
+#Incompleto 
 #### Tailwind Variants
 biblioteca que permite configurações de variantes de modo mais limpo e fácil 
 ```javascript

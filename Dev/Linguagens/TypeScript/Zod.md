@@ -1,3 +1,7 @@
+#Incompleto 
+
+> porque é bom? porque utiliza-lo 
+
 Biblioteca de declaração e validação de Schemas 
 
 ```javascript

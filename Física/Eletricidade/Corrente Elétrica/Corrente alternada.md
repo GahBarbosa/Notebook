@@ -1,4 +1,4 @@
-A corrente alternada (CA ou AC – do inglês alternating current) é uma [[Corrente contínua]] caracterizada por sua intensidade e direção que variam periodicamente – ao contrário da [[Corrente contínua]] –, sendo capaz de ser transportada por longas distâncias, portanto, sendo a mais utilizada em grandes [[Potência]].
+A corrente alternada (CA ou AC – do inglês alternating current) é uma [[Corrente Elétrica]] caracterizada por sua intensidade e direção que variam periodicamente – ao contrário da [[Corrente contínua]] –, sendo capaz de ser transportada por longas distâncias, portanto, sendo a mais utilizada em grandes [[Potência]].
 ![[Pasted image 20230910122808.png|100]]
 A corrente alternada é utilizada para transmissões de energia elétrica a longas distâncias por conta da facilidade de alteração de sua [[Tensão]] por meio de [[Transformador]], além de ter perdas muito menores em relação à [[Corrente contínua]], sendo uma forma de transmissão de energia mais eficiente e o tipo de [[Corrente Elétrica]] elétrica que chega às residências.
 ![[Pasted image 20230910122705.png]]

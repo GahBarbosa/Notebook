@@ -1,1 +1,3 @@
-[[RabbitMQ]]
+Advanced Message Queuing Protocol (AMQP) é criado como um protocolo padrão aberto que permite a interoperabilidade de mensagens entre sistemas, protocolo de camada de aplicativo, independentemente do message broker ou da plataforma usada. Você pode usar qualquer biblioteca de cliente compatível com AMQP que desejar e qualquer corretor compatível com AMQP que desejar.
+
+Ele define um conjunto de recursos de mensagens que devem ser disponibilizados por uma implementação de servidor compatível com AMQP (como [[RabbitMQ]]).

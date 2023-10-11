@@ -1,3 +1,4 @@
+#Incompleto 
 O primeiro encontro da [[Câmara de cristal]] tem como objetivo proteger os confluxos do tempo durantes as rodadas. 
 
 ### Objetivos e Mecânicas 
@@ -46,8 +47,8 @@ Os guardiões se dividirão em três duplas, cada dupla ira defender um lado da 
 #####  Chefões
 | Nome |  Dano Principal | 
 | -------- | -------- |  
-| Sacrificial Wyvern| ![[void.svg]] |
-serpe sacrifical
+| Serpe Sacrifical| ![[void.svg]] |
+
 ### Armas recomendadas
 praguejante
 tolerancia
