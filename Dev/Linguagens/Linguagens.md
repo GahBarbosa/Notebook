@@ -4,6 +4,7 @@ Back-End
 	[[C]]
 	[[TypeScript]]
 	[[Python]]
+	[[Go]]
 
 Front-End
 	[[React]]

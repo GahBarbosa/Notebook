@@ -1,4 +1,3 @@
-#Incompleto 
 > _The heart of software is its ability to solve domain-related problems for its user._ – Eric Evans
 
 ## Introdução
@@ -11,16 +10,13 @@ O **domínio** de um sistema consiste da área e problema de negócio que ele 
 
 DDD defende que os **desenvolvedores** devem ter um profundo conhecimento do domínio do sistema que eles desenvolvem. Esse conhecimento deve ser obtido por meio de conversas e discussões frequentes com **especialistas no domínio**. Portanto, o design do sistema deve ser norteado para atender ao seu domínio. E não, por exemplo, para se moldar a uma determinada tecnologia de programação. Portanto, o design é dirigido pelo domínio, e não por frameworks, arquiteturas, linguagens de programação, etc.
 
----
 DDD defende que a separação entre domínio e tecnologia deve ser promovida e expressa na arquitetura do sistema. Para tanto, padrões como Arquitetura em Camadas, Arquitetura Limpa ou Arquitetura Hexagonal podem ser usados.
-
-Antes de avançarmos, é importante mencionar que DDD se sobressai quando é usado em sistemas para domínios complexos, cujas regras de negócio são mais difíceis de serem imediatamente entendidas e implementadas pelos desenvolvedores.
 
 ## Linguagem Ubíqua
 
 **Linguagem Ubíqua** (ou **Linguagem Onipresente**) é um conceito central de DDD. Ela consiste de um conjunto de termos que devem ser plenamente entendidos tanto por especialistas no domínio (usuários do sistema) como por desenvolvedores (implementadores do sistema).
 
-Para um projeto de software dar certo, DDD defende que esses dois papéis – especialistas no domínio e desenvolvedores – devem falar a mesma língua, que vai constituir a chamada Linguagem Ubíqua do sistema. Essa ideia é ilustrada na seguinte figura:
+Para um projeto de software dar certo, DDD defende que esses dois papéis – especialistas no domínio e desenvolvedores – devem falar a mesma língua, que vai constituir a chamada Linguagem Ubíqua do sistema. 
 
 ![A linguagem ubíqua representa o conhecimento compartilhado entre especialistas do negócio e desenvolvedores.](https://engsoftmoderna.info/artigos/figs/linguagem-onipresente.svg)
 
@@ -31,9 +27,7 @@ A figura deixa claro que existem termos que só os especialistas de domínio con
 Os termos da Linguagem Ubíqua são usados com dois propósitos:
 
 - Para possibilitar uma comunicação fluida entre desenvolvedores e especialistas no domínio.
-    
 - Para nomear entidades do código do sistema, como classes, métodos, atributos, pacotes, módulos, tabelas de bancos de dados, rotas de APIs, etc.
-    
 
 Além de clarificar o significado dos termos da linguagem ubíqua, é importante que se definam os **relacionamentos** e **associações** que existem entre eles.
 
@@ -54,8 +48,7 @@ Para documentar esses relacionamentos pode ser usado um [[Diagrama de Classe]]�
 
 ## Objetos de Domínio
 
-DDD foi proposto pensando em sistemas implementados em linguagens orientadas a objetos. Então, quando se define o design desses sistemas, alguns tipos importantes de objetos se destacam. Dentre eles, DDD lista os seguintes:
-
+DDD foi proposto pensando em sistemas implementados em linguagens com [[Arquitetura orientada a Objetos]]. Então, quando se define o design desses sistemas, alguns tipos importantes de objetos se destacam. Dentre eles, DDD lista os seguintes:
 - Entidades
 - Objetos de Valor
 - Serviços
@@ -74,26 +67,19 @@ Outros exemplos de objetos de valor incluem: `Moeda`, `Data`, `Fone`, `Email
 
 **Por que distinguir entre entidades e objetos de valor?** Entidades são objetos mais importantes e devemos, por exemplo, projetar com cuidado como eles serão persistidos e depois recuperados de um banco de dados. Devemos também tomar cuidado com o ciclo de vida de entidades. Por exemplo, podem existir regras que governam a criação e remoção de entidades. No caso da nossa biblioteca, não se pode remover um `Usuário` se ele tiver um `Empréstimo` pendente.
 
-Já objetos de valor são mais simples. E também eles devem ser **imutáveis**, ou seja, uma vez criados, não deve ser possível alterar seus valores internos. Por exemplo, para alterar o `Endereço` de um `Usuário` devemos abandonar o objeto antigo e criar um objeto com o `Endereço` novo. Os benefícios de objetos imutáveis já foram discutidos no [Capítulo 9](https://engsoftmoderna.info/cap9.html#objetos-mut%C3%A1veis).
-
-É interessante mencionar também que, recentemente, algumas linguagens de programação passaram a oferecer suporte sintático para implementação de objetos de valor. Por exemplo, nas versões mais recentes de Java, eles podem ser implementados por meio de [records](https://docs.oracle.com/en/java/javase/16/language/records.html).
-
+Já objetos de valor são mais simples. E também eles devem ser **imutáveis**, ou seja, uma vez criados, não deve ser possível alterar seus valores internos. Por exemplo, para alterar o `Endereço` de um `Usuário` devemos abandonar o objeto antigo e criar um objeto com o `Endereço` novo. 
 ### Serviços
 
 Existem operações importantes do domínio que não se encaixam em entidades e objetos de valor. Assim, o ideal é criar objetos específicos para implementar essas operações. No jargão de DDD, esses objetos são chamados de **serviços**. Em alguns sistemas, é comum ver esses objetos sendo chamados também de gerenciadores ou controladores.
 
 A assinatura das operações de um objeto de serviço pode incluir entidades e objetos de valor. No entanto, objetos de serviço não devem possuir estado, isto é, eles devem ser **stateless**. Por isso, eles não costumam ter atributos, mas apenas métodos.
 
-Serviços normalmente são implementados como **singletons**, ou seja, possuem uma única instância durante a execução do sistema. Mais detalhes sobre esse padrão de projeto no [Capítulo 6](https://engsoftmoderna.info/cap6.html#singleton).
-
 **Exemplo**: no nosso sistema de bibliotecas, podemos ter um serviço que implementa as seguintes operações:
 
 ```
 class ServicoDeEmprestimo {
-  ...
-  void emprestarLivro(Usuario, Livro) {...}
-  void devolverLivro(Usuario, Livro)  {...}
-  ...
+  emprestarLivro(Usuario, Livro) {...}
+  devolverLivro(Usuario, Livro)  {...}
 }  
 ```
 
@@ -138,7 +124,6 @@ class RepositorioDeEmprestimos {
   List<Emprestimo> findEmprestimosDeUsuario(Usuario u) {...}
   List<Emprestimo> findEmprestimosPorData(Data inicio, Data fim) {...}
   List<Emprestimo> findEmprestimosVencidos() {...}
-  ...   
 }
 ```
 
@@ -154,40 +139,26 @@ class RepositorioDeEmprestimos {
   void remover(Emprestimo e) {...} 
 }
 ```
-
 ## Contextos Delimitados
 
-Com o tempo, sistemas de software ficam mais complexos e abrangentes. Por isso, é irrealista imaginar que sistemas de organizações grandes e complexas vão possuir um modelo de domínio único e baseado na mesma linguagem ubíqua.
+É irrealista imaginar que sistemas de organizações grandes e complexas vão possuir um modelo de domínio único e baseado na mesma linguagem ubíqua.
 
-Em vez disso, é natural que tais organizações tenham sistemas que atendem a usuários com perfis e necessidades diferentes, o que complica a definição de uma linguagem ubíqua. A solução para esse problema consiste em quebrar tais domínios complexos em domínios menores, os quais em DDD são chamados de **Contextos Delimitados** (_Bounded Contexts_).
-
-**Exemplo:** Suponha que a nossa biblioteca tenha um setor financeiro. Esse setor tem necessidades específicas, que começam a justificar um projeto separado, com uma linguagem própria. Por exemplo, nesse domínio financeiro, a classe `Usuário` pode, inclusive, ser chamada de `Cliente` e ter novos atributos.
-
+Em vez disso, é natural que tais organizações tenham sistemas que atendem a usuários com perfis e necessidades diferentes, o que complica a definição de uma linguagem ubíqua. A solução para esse problema consiste em quebrar tais domínios complexos em domínios menores, os quais em DDD são chamados de **Contextos Delimitados**.
 ## Camada Anticorrupção
 
-Às vezes, temos que integrar sistemas que estão em contextos delimitados diferentes. Por exemplo, um sistema A precisa usar serviços de um sistema B, que pode inclusive ser um sistema externo, isto é, de uma outra organização. Para evitar que A tenha que se adaptar e usar, mesmo que parcialmente, a linguagem ubíqua de B, pode-se usar uma **Camada Anticorrupção** para mediar essa comunicação.
+Às vezes, temos que integrar sistemas que estão em contextos delimitados diferentes. Um sistema A precisa usar serviços de um sistema B, que pode inclusive ser um sistema externo, isto é, de uma outra organização. Para evitar que A tenha que se adaptar e usar, mesmo que parcialmente, a linguagem ubíqua de B, pode-se usar uma **Camada Anticorrupção** para mediar essa comunicação.
 
-Essa camada é formada por três tipos principais de classes:
+Essa camada é formada por dois tipos principais de classes:
 
 - Classes de Serviço, cujos métodos serão chamados por A e que, portanto, seguem a linguagem ubíqua desse sistema.
-    
-- [Classes Adaptadoras](https://engsoftmoderna.info/cap6.html#adaptador), que convertem o modelo e os tipos de dados de B para o modelo e tipos de dados de A. Ou seja, essas classes vão isolar elementos próprios de B e evitar que eles cheguem até o sistema A.
-    
-- Uma [Classe de Fachada](https://engsoftmoderna.info/cap6.html#fachada), usada para acessar o sistema B. O papel dessa classe é facilitar o uso de B, principalmente quando ele é um sistema legado com uma interface complexa e antiga.
-    
+- Classes Adaptadoras, que convertem o modelo e os tipos de dados de B para o modelo e tipos de dados de A. Ou seja, essas classes vão isolar elementos próprios de B e evitar que eles cheguem até o sistema A.
+
 
 Logo, o fluxo costuma ser o seguinte:
 
 ```
-Sistema A -> [ Serviços -> Adaptadores -> Fachada ] -> Sistema B
+Sistema A -> [ Serviços -> Adaptadores ] -> Sistema B
 ```
 
 Nesse fluxo, as classes entre colchetes constituem a Camada Anticorrupção que foi construída para integrar os sistemas A e B.
 
-## Conclusão
-
-Em um material de referência, que escreveu em 2014, Eric Evans definiu assim DDD:
-
-> DDD é uma abordagem para desenvolvimento de sistemas de software complexos, em que: (1) o foco está no domínio do sistema; (2) desenvolvedores e especialistas no negócio devem explorar esse domínio de forma colaborativa; (3) como resultado, eles devem se comunicar usando uma linguagem ubíqua, mas dentro de um contexto delimitado.
-
-A linguagem ubíqua do sistema deve ser usada também no seu código, para nomear variáveis, parâmetros, métodos, classes, pacotes, etc. Especificamente, um projeto DDD deve fazer uso dos seguintes tipos de objetos principais: entidades, objetos de valor, serviços, agregados e repositórios.

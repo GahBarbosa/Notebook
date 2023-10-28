@@ -1,4 +1,4 @@
-O Hook React useCallback retorna uma função de retorno de chamada memorizada.
+O Hook [[React]] useCallback retorna uma função de retorno de chamada memorizada.
 Pense na memoização como armazenar um valor em [[Caching]] para que ele não precise ser recalculado.
 Isso nos permite isolar funções que consomem muitos recursos para que não sejam executadas automaticamente em todas as renderizações.
 Os ganchos Callback e [[useMemo]] são semelhantes. A principal diferença é que useMemo retorna um valor memorizado e useCallback retorna uma função memorizada. 

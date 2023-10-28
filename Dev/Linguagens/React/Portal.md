@@ -1,4 +1,4 @@
-Os React Portals são um conceito que permite aos desenvolvedores renderizar seus elementos fora da árvore hierárquica do React sem comprometer o relacionamento pai-filho entre os componentes
+Os [[React]] Portals são um conceito que permite aos desenvolvedores renderizar seus elementos fora da árvore hierárquica do React sem comprometer o relacionamento pai-filho entre os componentes
 ```jsx
 export default function App() {
 	const [showModal, setShowModal] = useState(false);

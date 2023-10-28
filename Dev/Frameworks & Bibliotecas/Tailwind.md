@@ -1,4 +1,7 @@
-#Incompleto 
+Tailwind é uma [[Framework]] [[CSS]] projetada para permitir usar classes utilitárias para controlar o layout, a cor, o espaçamento, a tipografia, as sombras e muito mais para criar um design de componente totalmente personalizado — sem sair do HTML ou escrever uma única linha de CSS personalizado.
+```html
+<div className="h-4 w-4" />
+```
 #### Tailwind Variants
 biblioteca que permite configurações de variantes de modo mais limpo e fácil 
 ```javascript

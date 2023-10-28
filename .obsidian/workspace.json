@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bd2b6b840fa5d042",
+        "id": "b7f4ea18c322b23b",
         "type": "tabs",
         "children": [
           {
-            "id": "012d5fc5adcb5403",
+            "id": "d38044fa725737aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/Portfolio/gRPC.md",
+                "file": "Dev/Linguagens/Docker/Docker.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev/Portfolio/gRPC.md",
+                "file": "Dev/Linguagens/Docker/Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev/Portfolio/gRPC.md",
+                "file": "Dev/Linguagens/Docker/Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dev/Portfolio/gRPC.md"
+                "file": "Dev/Linguagens/Docker/Docker.md"
               }
             }
           },
@@ -166,45 +167,46 @@
       "workspaces:Gerenciar leiautes da área de trabalho": false
     }
   },
-  "active": "012d5fc5adcb5403",
+  "active": "d38044fa725737aa",
   "lastOpenFiles": [
-    "Dev/Portfolio/Flow Field.md",
-    "Dev/Portfolio/gRPC.md",
-    "Dev/Conceitos/BFF.md",
-    "Dev/Protocolos/gRPC.md",
-    "Dev/Protocolos/REST.md",
-    "Dev/Protocolos/HTTP 2.md",
-    "Dev/Conceitos/Payload.md",
+    "Eletrônica/Diodo.md",
     "Dev/DataBase/DTO.md",
-    "Dev/Linguagens/Docker/Image.md",
-    "Dev/Linguagens/Docker/Container.md",
-    "Dev/Linguagens/Node/Nest.js.md",
-    "Dev/Linguagens/Docker/Docker.md",
-    "Dev/Virtual Machine/Virtual Machine.md",
-    "Dev/Linguagens/Docker",
-    "Dev/Virtual Machine/Wsl.md",
-    "Dev/Virtual Machine/Sem título",
-    "Dev/Protocolos/Protocol Buffers.md",
-    "Dev/Virtual Machine",
-    "To do.md",
-    "Dev/Linguagens/React/useEffect.md",
-    "Dev/Linguagens/React/useState.md",
-    "Dev/Linguagens/React/Ref.md",
+    "Dev/DataBase/Databases.md",
+    "Dev/Linguagens/Linguagens.md",
     "Dev/Conceitos/VPS.md",
-    "Dev/Linguagens/Node/PM2.md",
-    "Dev/Linguagens/Node/Node.md",
+    "Dev/Criptografia/Chave Pública Assimétrica.md",
+    "Dev/Criptografia/RSA.md",
+    "Dev/Linguagens/WebAssembly.md",
+    "Dev/Linguagens/Markdown.md",
+    "Dev/Linguagens/CSS.md",
+    "Dev/Linguagens/HTML/Tag.md",
+    "Dev/Linguagens/JavaScript/Three.md",
+    "Dev/Linguagens/JavaScript/Array Methods.md",
+    "Dev/Linguagens/JavaScript/Axios.md",
+    "Dev/Linguagens/JavaScript/JavaScript.md",
     "Dev/Linguagens/JavaScript/JavaScript V8.md",
-    "Dev/Linguagens/C++.md",
-    "Dev/Conceitos/IDE.md",
-    "Dev/Linguagens/TypeScript/Zod.md",
+    "Dev/Linguagens/JavaScript/JSON Web Token (JWT).md",
+    "Dev/Linguagens/JavaScript/Vite.md",
+    "Dev/Frameworks & Bibliotecas/Vitest.md",
+    "Dev/Frameworks & Bibliotecas/Mocha.md",
+    "Dev/Frameworks & Bibliotecas/Jest.md",
+    "Dev/Linguagens/Docker/Image.md",
+    "Dev/Linguagens/Docker/D.md",
+    "Dev/Linguagens/Docker/Docker.md",
+    "Dev/Linguagens/Docker/Container.md",
+    "Dev/Linguagens/Apache Kafka/Apache Kafka.md",
+    "Dev/Linguagens/JavaScript/Three js",
+    "Dev/DataBase/NoSQL",
+    "Dev/Imagens/Pasted image 20231019175633.png",
+    "Dev/Linguagens/Apache Kafka",
+    "Dev/Portfolio/Node",
+    "Dev/Portfolio/JavaScript",
+    "Dev/Linguagens/Go",
+    "Dev/Linguagens/React/Next.js",
+    "Dev/Linguagens/Docker",
+    "Dev/Virtual Machine/Sem título",
+    "Dev/Virtual Machine",
     "Dev/Imagens/Pasted image 20231009082241.png",
-    "Dev/Arquiteturas",
-    "Arte/Gestos",
-    "Culinária/Queijo/Tipos/Queijo Fresco/Sem título",
-    "Culinária/Queijo/Tipos/Queijo Fresco",
-    "Culinária/Imagens",
-    "Culinária/Sem título",
-    "Culinária/Queijo/Tipos",
     "Jogos/Destiny/Imagens/Pasted image 20230912041531.png",
     "Pasted image 20230913101843.png",
     "Pasted image 20230913095721.png",
@@ -213,7 +215,6 @@
     "Jogos/Destiny/Raid/Câmara de cristal/Imagens/Pasted image 20230912041211.png",
     "Jogos/Destiny/Raid/Câmara de cristal/Imagens/Pasted image 20230912041112.png",
     "Jogos/Destiny/Raid/Câmara de cristal/Imagens/Pasted image 20230912041105.png",
-    "Jogos/Destiny/Raid/Câmara de cristal/Imagens/Pasted image 20230912040954.png",
     "Destiny/Raid/Câmara de cristal/New Light/Sem título.canvas",
     "Sem título.canvas"
   ]

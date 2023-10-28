@@ -1,4 +1,4 @@
-O React useMemo Hook retorna um valor memorizado permitindo fazer [[Caching]] de valores entre renderizações.
+O [[React]] useMemo Hook retorna um valor memorizado permitindo fazer [[Caching]] de valores entre renderizações.
 O useMemo só é executado quando uma de suas dependências é atualizada.
 Os ganchos Memo e [[useCallback]] são semelhantes. A principal diferença é que useMemo retorna um valor memorizado e useCallback retorna uma função memorizada. 
 ### Desempenho

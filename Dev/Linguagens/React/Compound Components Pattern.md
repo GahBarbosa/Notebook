@@ -1,5 +1,5 @@
 [Repositório com exemplo](https://github.com/GahBarbosa/compound-components-pattern)
-
+[[React]]
 O Compound Components pattern é um método de design aonde o componente principal encapsula um grupo de componentes, fornecendo uma arquitetura simples e fácil de entender. Esse método permite que os desenvolvedores criem componentes complexos de maneira flexível, permitindo que criem interfaces do usuário altamente personalizáveis ​​com pouco código extra. 
 
 ```jsx

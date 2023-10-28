@@ -1,4 +1,5 @@
-técnica de dividir seu código em vários pacotes que podem ser carregados sob demanda ou em paralelo.
+[[React]]
+Técnica de dividir seu código em vários pacotes que podem ser carregados sob demanda ou em paralelo.
 ```jsx
 import { useState, Suspense, lazy } from 'react';
 const Example = lazy(() => import('./Example.js'));

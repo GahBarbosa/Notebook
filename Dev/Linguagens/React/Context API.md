@@ -1,3 +1,4 @@
+[[React]]
 Quando precisamos que um componente filho tenha os dados do pai, precisamos informar esses dados e funções através das props, com a Context API esse cenário é diferente podendo ser lido e alterado de qualquer lugar da aplicação, já que ela é um gerenciador de estado global.
 ![[Pasted image 20230802222700.png]]
 
