@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b7f4ea18c322b23b",
+        "id": "370992f7df6a43a7",
         "type": "tabs",
         "children": [
           {
-            "id": "d38044fa725737aa",
+            "id": "c0d6778a342a4c21",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/Linguagens/Docker/Docker.md",
+                "file": "Drink/Batida de vinho com maracujá.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev/Linguagens/Docker/Docker.md",
+                "file": "Drink/Batida de vinho com maracujá.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev/Linguagens/Docker/Docker.md",
+                "file": "Drink/Batida de vinho com maracujá.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dev/Linguagens/Docker/Docker.md"
+                "file": "Drink/Batida de vinho com maracujá.md"
               }
             }
           },
@@ -167,54 +166,53 @@
       "workspaces:Gerenciar leiautes da área de trabalho": false
     }
   },
-  "active": "d38044fa725737aa",
+  "active": "0856d816664a5b5c",
   "lastOpenFiles": [
-    "Eletrônica/Diodo.md",
-    "Dev/DataBase/DTO.md",
-    "Dev/DataBase/Databases.md",
-    "Dev/Linguagens/Linguagens.md",
-    "Dev/Conceitos/VPS.md",
-    "Dev/Criptografia/Chave Pública Assimétrica.md",
-    "Dev/Criptografia/RSA.md",
-    "Dev/Linguagens/WebAssembly.md",
-    "Dev/Linguagens/Markdown.md",
-    "Dev/Linguagens/CSS.md",
-    "Dev/Linguagens/HTML/Tag.md",
-    "Dev/Linguagens/JavaScript/Three.md",
+    "Drink/Caipirinha de limão com vinho branco.md",
+    "Drink/Rossini.md",
+    "Drink/Portônica.md",
+    "Drink/Espanhola.md",
+    "Drink/imagens/Pasted image 20231212172318.png",
+    "Drink/Batida de vinho com maracujá.md",
+    "Drink/Bebidas/Vodka.md",
+    "Drink/Bebidas/Vinho tinto.md",
+    "Drink/Bebidas/Vinho do porto.md",
+    "Drink/Bebidas/Vinho branco.md",
+    "Drink/Bebidas/Cachaça.md",
+    "Drink/imagens/Pasted image 20231212172010.png",
+    "Drink/imagens/Pasted image 20231212171808.png",
+    "Drink/Bebidas",
+    "Drink/imagens/Pasted image 20231212171021.png",
+    "Jogos/Destiny/Raid/Câmara de cristal/New Light/Confluxo.md",
+    "Drink/imagens/Pasted image 20231212170735.png",
+    "Drink/imagens",
+    "Dev/Documentação/Criativos/to do.md",
+    "Drink",
+    "Dev/Documentação/Estilização/Brandbook.md",
+    "Dev/Documentação/Projetos/Doc Template.md",
+    "Dev/Documentação/Projetos/Briefing.md",
+    "Dev/Documentação/Imagens/Pasted image 20230908202645.png",
+    "Dev/Documentação/Imagens/Pasted image 20230908202626.png",
+    "Dev/Documentação/Imagens/Pasted image 20230908202333.png",
+    "Dev/Documentação/Imagens/Pasted image 20230908202320.png",
+    "Dev/Documentação/Imagens/Pasted image 20230908201747.png",
+    "Dev/Linguagens/C.md",
+    "Dev/Conceitos/Browser.md",
+    "Dev/Conceitos/Assíncrono.md",
     "Dev/Linguagens/JavaScript/Array Methods.md",
     "Dev/Linguagens/JavaScript/Axios.md",
     "Dev/Linguagens/JavaScript/JavaScript.md",
     "Dev/Linguagens/JavaScript/JavaScript V8.md",
-    "Dev/Linguagens/JavaScript/JSON Web Token (JWT).md",
+    "Dev/Linguagens/JavaScript/JSON.md",
+    "Dev/Linguagens/JavaScript/Three.md",
     "Dev/Linguagens/JavaScript/Vite.md",
-    "Dev/Frameworks & Bibliotecas/Vitest.md",
-    "Dev/Frameworks & Bibliotecas/Mocha.md",
-    "Dev/Frameworks & Bibliotecas/Jest.md",
-    "Dev/Linguagens/Docker/Image.md",
-    "Dev/Linguagens/Docker/D.md",
-    "Dev/Linguagens/Docker/Docker.md",
-    "Dev/Linguagens/Docker/Container.md",
-    "Dev/Linguagens/Apache Kafka/Apache Kafka.md",
     "Dev/Linguagens/JavaScript/Three js",
     "Dev/DataBase/NoSQL",
-    "Dev/Imagens/Pasted image 20231019175633.png",
     "Dev/Linguagens/Apache Kafka",
     "Dev/Portfolio/Node",
     "Dev/Portfolio/JavaScript",
     "Dev/Linguagens/Go",
     "Dev/Linguagens/React/Next.js",
-    "Dev/Linguagens/Docker",
-    "Dev/Virtual Machine/Sem título",
-    "Dev/Virtual Machine",
-    "Dev/Imagens/Pasted image 20231009082241.png",
-    "Jogos/Destiny/Imagens/Pasted image 20230912041531.png",
-    "Pasted image 20230913101843.png",
-    "Pasted image 20230913095721.png",
-    "Jogos/Destiny/Raid/Câmara de cristal/Imagens/Pasted image 20230912041231.png",
-    "Jogos/Destiny/Raid/Câmara de cristal/Imagens/Pasted image 20230912041223.png",
-    "Jogos/Destiny/Raid/Câmara de cristal/Imagens/Pasted image 20230912041211.png",
-    "Jogos/Destiny/Raid/Câmara de cristal/Imagens/Pasted image 20230912041112.png",
-    "Jogos/Destiny/Raid/Câmara de cristal/Imagens/Pasted image 20230912041105.png",
     "Destiny/Raid/Câmara de cristal/New Light/Sem título.canvas",
     "Sem título.canvas"
   ]

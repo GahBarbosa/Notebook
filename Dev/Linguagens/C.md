@@ -1,1 +1,8 @@
-#Fazer
+A **linguagem C** existe desde antes da internet e foi criada pelo cientista da computação Dennis Ritchie e Ken Thompson, em 1972. O propósito inicial era que fosse uma linguagem usada no desenvolvimento de uma nova versão do sistema operacional Unix, mas hoje é aplicada para criar _softwares_. É também muito usada em banco de dados para todos os tipos de sistemas: financeiro, governamental, mídia, entretenimento, telecomunicações, saúde, educação, varejo, redes sociais, etc. Grandes empresas como Apple, Microsoft, Oracle usam a linguagem C.
+
+A linguagem C é chamada de **linguagem nível intermediária**, pois combina os elementos das linguagens de alto nível com o funcionalismo da linguagem nível máquina. Com C é possível ter controle exato de como um programa se comporta e dá acesso direto à partes do _hardwar_e, como o espaço na memória do computador.
+
+Suas características e aplicações são:
+
+- Portabilidade: significa que a linguagem pode ser compilada em diversas arquiteturas, em Mac ou PC, com Linux ou Windows. Uma característica que nem toda linguagem possui.
+- Simplicidade: seguindo as regras, dificilmente vai cometer erros que possam comprometer o seu programa. O compilador (um programa de sistema que traduz o código legível para os seres humanos e converte para a linguagem binária que o processador “entende”). também avisa a maior parte dos erros de sintaxe que você cometer.

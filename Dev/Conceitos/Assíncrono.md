@@ -1,1 +1,1 @@
-#Fazer 
+Uma breve explicação, o código síncrono é lido e executado da primeira até a última linha, em ordem. O código  assíncrono, por sua vez, não necessariamente respeitará a ordem das linhas do código, podendo ter funções sendo lidas e executadas simultaneamente ou aleatoriamente.
