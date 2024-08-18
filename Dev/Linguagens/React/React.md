@@ -2,9 +2,9 @@ React é uma [[Library]] e um [[Framework]] de [[JavaScript]] desenvolvido e man
 Uma das principais características do React é construir componentes reutilizáveis para um desenvolvimento mais rápido e de design consistente. Outra característica é a construção de [[SPA]]
 
 
-shadcn ( component lib )
 
-Ferramentas a aprender:
+
+Frameworks:
 	[[Next.js]]
 
 

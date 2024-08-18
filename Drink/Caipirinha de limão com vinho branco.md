@@ -2,7 +2,7 @@
 
 -  Suco de 3 limões
 -  50 ml [[Cachaça]] branca
--  150 ml [[Vinho branco]] seco
+-  150 ml [[Branco]] seco
 -  3 colheres de sopa de açúcar
 -  Gelo a gosto
 

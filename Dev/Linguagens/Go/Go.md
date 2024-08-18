@@ -2,7 +2,7 @@ Go, também conhecido como Golang, é uma linguagem de programação [[Open-sour
 A sintaxe de Go é semelhante a [[C]] e suas declarações são feitas com base em Pascal limpo
 
 #### Orientação a objetos
-É possível programar semelhantemente a [[Arquitetura orientada a Objetos]], mas não da forma mais comum, pois Go não utiliza classes e sim [[Sctruture]]. Na orientação a objetos, são criados [[Methods]] sem classes, interface sem hierarquia, reutilização de código sem herança.
+É possível programar semelhantemente a [[Orientada a Objetos]], mas não da forma mais comum, pois Go não utiliza classes e sim [[Sctruture]]. Na orientação a objetos, são criados [[Methods]] sem classes, interface sem hierarquia, reutilização de código sem herança.
 ```go
 type Pessoa struct {
   Nome string

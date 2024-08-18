@@ -1,6 +1,6 @@
 #### Ingredientes
 
--  30 ml de [[Vinho do porto]]
+-  30 ml de [[Porto]]
 -  Gelo a gosto
 -  2 rodelas de limão
 -  Água tônica para completar

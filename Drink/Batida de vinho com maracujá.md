@@ -1,9 +1,9 @@
 #### Ingredientes
 
--  1 maracujá maduro
+-  1 [[Maracujá]] maduro
 -  2 colheres de sopa de açúcar
--  3 doses de [[Vinho tinto]] suave
--  1 dose de [[Vodka]]
+-  3 [[Dose]] de [[Tinto]] suave
+-  1 [[Dose]] de [[Vodka]]
 -  Gelo a gosto
 
 #### Modo de preparo
