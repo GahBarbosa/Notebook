@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "370992f7df6a43a7",
+        "id": "d958fde5996921a7",
         "type": "tabs",
         "children": [
           {
-            "id": "c0d6778a342a4c21",
+            "id": "668bc8de8e449360",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Drink/Batida de vinho com maracujá.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:fazer",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Drink/Batida de vinho com maracujá.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Drink/Batida de vinho com maracujá.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Drink/Batida de vinho com maracujá.md"
-              }
+              "state": {}
             }
           },
           {
@@ -143,7 +135,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -168,51 +162,52 @@
   },
   "active": "0856d816664a5b5c",
   "lastOpenFiles": [
-    "Drink/Caipirinha de limão com vinho branco.md",
-    "Drink/Rossini.md",
-    "Drink/Portônica.md",
-    "Drink/Espanhola.md",
-    "Drink/imagens/Pasted image 20231212172318.png",
-    "Drink/Batida de vinho com maracujá.md",
-    "Drink/Bebidas/Vodka.md",
+    "Dev/Linguagens/Docker/Image.md",
+    "Dev/Linguagens/Docker/Docker.md",
+    "Dev/Linguagens/Docker/Container.md",
+    "Dev/Linguagens/Docker",
+    "Dev/Linguagens/Apache Kafka/Apache Kafka.md",
+    "Dev/Linguagens/Apache Kafka",
+    "Dev/Documentação/Estilização/Brandbook.md",
+    "Dev/Documentação/Estilização",
+    "Dev/Documentação/Criativos/to do.md",
+    "Dev/Documentação/Criativos",
+    "To do.md",
     "Drink/Bebidas/Vinho tinto.md",
     "Drink/Bebidas/Vinho do porto.md",
     "Drink/Bebidas/Vinho branco.md",
-    "Drink/Bebidas/Cachaça.md",
-    "Drink/imagens/Pasted image 20231212172010.png",
-    "Drink/imagens/Pasted image 20231212171808.png",
-    "Drink/Bebidas",
-    "Drink/imagens/Pasted image 20231212171021.png",
-    "Jogos/Destiny/Raid/Câmara de cristal/New Light/Confluxo.md",
-    "Drink/imagens/Pasted image 20231212170735.png",
-    "Drink/imagens",
-    "Dev/Documentação/Criativos/to do.md",
-    "Drink",
-    "Dev/Documentação/Estilização/Brandbook.md",
+    "Dev/Protocolos/HTTPS.md",
+    "Dev/Ferramentas/Métrica/Métricas.md",
+    "Dev/Ferramentas/Métrica/Lighthouse.md",
+    "Dev/Ferramentas/Métrica/Grafana.md",
+    "Dev/Ferramentas/Métrica/GTmetriX.md",
+    "Dev/Ferramentas/Artificial Intelligence.md",
     "Dev/Documentação/Projetos/Doc Template.md",
-    "Dev/Documentação/Projetos/Briefing.md",
     "Dev/Documentação/Imagens/Pasted image 20230908202645.png",
     "Dev/Documentação/Imagens/Pasted image 20230908202626.png",
     "Dev/Documentação/Imagens/Pasted image 20230908202333.png",
     "Dev/Documentação/Imagens/Pasted image 20230908202320.png",
+    "Dev/Documentação/Imagens/Pasted image 20230908202000.png",
+    "Dev/Documentação/Imagens/Pasted image 20230908201703.png",
     "Dev/Documentação/Imagens/Pasted image 20230908201747.png",
-    "Dev/Linguagens/C.md",
-    "Dev/Conceitos/Browser.md",
-    "Dev/Conceitos/Assíncrono.md",
-    "Dev/Linguagens/JavaScript/Array Methods.md",
-    "Dev/Linguagens/JavaScript/Axios.md",
-    "Dev/Linguagens/JavaScript/JavaScript.md",
-    "Dev/Linguagens/JavaScript/JavaScript V8.md",
-    "Dev/Linguagens/JavaScript/JSON.md",
-    "Dev/Linguagens/JavaScript/Three.md",
-    "Dev/Linguagens/JavaScript/Vite.md",
-    "Dev/Linguagens/JavaScript/Three js",
-    "Dev/DataBase/NoSQL",
-    "Dev/Linguagens/Apache Kafka",
-    "Dev/Portfolio/Node",
-    "Dev/Portfolio/JavaScript",
-    "Dev/Linguagens/Go",
-    "Dev/Linguagens/React/Next.js",
+    "Dev/Documentação/Imagens/Pasted image 20230908201644.png",
+    "Dev/Documentação/Imagens/Pasted image 20230908201634.png",
+    "Dev/Documentação/Imagens",
+    "Culinária/Sopa/Locro de papa.md",
+    "Culinária/Sopa",
+    "Dev/Conceitos/Streaming.md",
+    "Dev/Conceitos/Handshake.md",
+    "Dev/Conceitos/IDE.md",
+    "Dev/Conceitos/Framework.md",
+    "Dev/Conceitos/Factory.md",
+    "Dev/Conceitos/Diagrama de Classe.md",
+    "Dev/Conceitos/DevOps.md",
+    "Dev/Conceitos/Debouncing.md",
+    "Drink/Bebidas/Vinhos",
+    "Dev/Documentação/Entrega de Projetos",
+    "Dev/Documentação/Entrega de Projetos/Imagens/Pasted image 20230908201747.png",
+    "Culinária/Pratos/Acompanhamentos",
+    "Culinária/Restaurante Week/Campeonato",
     "Destiny/Raid/Câmara de cristal/New Light/Sem título.canvas",
     "Sem título.canvas"
   ]
