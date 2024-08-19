@@ -48,7 +48,7 @@ Para documentar esses relacionamentos pode ser usado um [[Diagrama de Classe]]�
 
 ## Objetos de Domínio
 
-DDD foi proposto pensando em sistemas implementados em linguagens com [[Arquitetura orientada a Objetos]]. Então, quando se define o design desses sistemas, alguns tipos importantes de objetos se destacam. Dentre eles, DDD lista os seguintes:
+DDD foi proposto pensando em sistemas implementados em linguagens com [[Orientada a Objetos]]. Então, quando se define o design desses sistemas, alguns tipos importantes de objetos se destacam. Dentre eles, DDD lista os seguintes:
 - Entidades
 - Objetos de Valor
 - Serviços

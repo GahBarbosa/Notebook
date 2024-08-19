@@ -1,9 +1,9 @@
 #### Ingredientes
 
--  100 ml de [[Vinho branco]] frisante gelado
+-  100 ml de [[Branco]] frisante gelado
 -  1 morango
 -  Uma pitada de açúcar
-
+	
 #### Modo de preparo
 
 1. Macere bem o morango.

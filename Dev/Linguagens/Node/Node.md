@@ -4,7 +4,7 @@ O Node permite que os desenvolvedores escrevam código JavaScript que é executa
 
 Node.js é escrito em [[C]], [[C++]] e [[JavaScript]] e é construído no mecanismo [[JavaScript V8]]  de código aberto que também alimenta JS em navegadores. Como o V8 oferece suporte a novos recursos em [[JavaScript]], eles são incorporados ao Node.
 
-Feito com a [[Arquitetura Orientada a Eventos]] e [[Assíncrono]]. Na prática, isso significa que o Node foi desenvolvido bem para lidar com código JavaScript para realizar muitas atividades ao mesmo tempo sendo assim [[Multithreading]], como leitura e gravação no sistema de arquivos, manipulação de conexões com servidores de banco de dados ou manipulação de solicitações como um servidor web.
+Feito com a [[Orientada a Eventos]] e [[Assíncrono]]. Na prática, isso significa que o Node foi desenvolvido bem para lidar com código JavaScript para realizar muitas atividades ao mesmo tempo sendo assim [[Multithreading]], como leitura e gravação no sistema de arquivos, manipulação de conexões com servidores de banco de dados ou manipulação de solicitações como um servidor web.
 
 Para lidar com código assíncrono, o Node usa um sistema baseado em [[Dev/Conceitos/Callback|Callback]]. As funções e métodos que implementarão alguma atividade assíncrona recebem uma função [[Callback]]. Este callback será chamado sempre que a operação assíncrona for resolvida. 
 

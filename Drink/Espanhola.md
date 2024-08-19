@@ -1,6 +1,6 @@
 #### Ingredientes
 
--  1/2 garrafa de [[Vinho tinto]] suave
+-  1/2 garrafa de [[Tinto]] suave
 -  1/2 abacaxi sem o miolo
 -  1/2 lata de leite condensado
 -  Gelo

@@ -11,8 +11,12 @@
             "id": "668bc8de8e449360",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Culinária/Mexicana/Tacos/Chili.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Culinária/Mexicana/Tacos/Chili.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Culinária/Mexicana/Tacos/Chili.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Culinária/Mexicana/Tacos/Chili.md"
+              }
             }
           },
           {
@@ -160,8 +168,24 @@
       "workspaces:Gerenciar leiautes da área de trabalho": false
     }
   },
-  "active": "0856d816664a5b5c",
+  "active": "668bc8de8e449360",
   "lastOpenFiles": [
+    "Culinária/Mexicana/Salsa.md",
+    "Culinária/Mexicana/Tacos/Chili.md",
+    "Culinária/Mexicana/Tacos/Frango.md",
+    "Culinária/Mexicana/Tacos.md",
+    "Culinária/Mexicana/Tortilha.md",
+    "Culinária/Mexicana/Tortilha Tradicional.md",
+    "Culinária/Imagens/Pasted image 20240818063848.png",
+    "Sem título.md",
+    "Culinária/Imagens/Pasted image 20240818063642.png",
+    "Culinária/Mexicana/Tacos",
+    "Culinária/Mexicana/Guacamole.md",
+    "Culinária/Mexicana/Creme azedo.md",
+    "Culinária/Mexicana",
+    "Culinária/Imagens/Pasted image 20240818062018.png",
+    "Culinária/Imagens/Pasted image 20240818061942.png",
+    "Culinária/Imagens/Pasted image 20240818060933.png",
     "Dev/Linguagens/Docker/Image.md",
     "Dev/Linguagens/Docker/Docker.md",
     "Dev/Linguagens/Docker/Container.md",
@@ -182,32 +206,15 @@
     "Dev/Ferramentas/Métrica/Grafana.md",
     "Dev/Ferramentas/Métrica/GTmetriX.md",
     "Dev/Ferramentas/Artificial Intelligence.md",
-    "Dev/Documentação/Projetos/Doc Template.md",
     "Dev/Documentação/Imagens/Pasted image 20230908202645.png",
     "Dev/Documentação/Imagens/Pasted image 20230908202626.png",
     "Dev/Documentação/Imagens/Pasted image 20230908202333.png",
     "Dev/Documentação/Imagens/Pasted image 20230908202320.png",
     "Dev/Documentação/Imagens/Pasted image 20230908202000.png",
-    "Dev/Documentação/Imagens/Pasted image 20230908201703.png",
-    "Dev/Documentação/Imagens/Pasted image 20230908201747.png",
-    "Dev/Documentação/Imagens/Pasted image 20230908201644.png",
-    "Dev/Documentação/Imagens/Pasted image 20230908201634.png",
     "Dev/Documentação/Imagens",
-    "Culinária/Sopa/Locro de papa.md",
     "Culinária/Sopa",
-    "Dev/Conceitos/Streaming.md",
-    "Dev/Conceitos/Handshake.md",
-    "Dev/Conceitos/IDE.md",
-    "Dev/Conceitos/Framework.md",
-    "Dev/Conceitos/Factory.md",
-    "Dev/Conceitos/Diagrama de Classe.md",
-    "Dev/Conceitos/DevOps.md",
-    "Dev/Conceitos/Debouncing.md",
     "Drink/Bebidas/Vinhos",
     "Dev/Documentação/Entrega de Projetos",
-    "Dev/Documentação/Entrega de Projetos/Imagens/Pasted image 20230908201747.png",
-    "Culinária/Pratos/Acompanhamentos",
-    "Culinária/Restaurante Week/Campeonato",
     "Destiny/Raid/Câmara de cristal/New Light/Sem título.canvas",
     "Sem título.canvas"
   ]
