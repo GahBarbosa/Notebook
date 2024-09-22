@@ -1,2 +1,0 @@
-#Fazer
-![[Pasted image 20230912041531.png]]

@@ -1,0 +1,8 @@
+- Parrilinha
+- De segunda
+- Pappagallo Cucina
+- Steak Bife - Chef Erick Jacquin
+- Arturito
+- Cabruca
+- Papaya café
+- Leggera Pizza Napoletana

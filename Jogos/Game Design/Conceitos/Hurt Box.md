@@ -1,2 +1,0 @@
-Parte que delimita onde seu personagem pode ser acertado. [[Hurt Box]] também podem aparecer junto com as [[Hit Box]] do próprio personagem, expandido a área onde ele pode ser acertado por outros golpes. Nas imagens é representado como linhas verdes.
-![[Pasted image 20230819094545.png]]
