@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "597f3faaedbb3779",
+        "id": "fd231d5a2bdf333d",
         "type": "tabs",
         "children": [
           {
-            "id": "287180317913ae97",
+            "id": "9db1a7bf08d14cbb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/Cientista de dados/Roadmap.md",
+                "file": "Dev/Cientista de dados/cientista de dados.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5
+    "width": 373.5
   },
   "right": {
     "id": "dfd67e4050309cbf",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev/Cientista de dados/Roadmap.md",
+                "file": "Dev/Cientista de dados/cientista de dados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev/Cientista de dados/Roadmap.md",
+                "file": "Dev/Cientista de dados/cientista de dados.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dev/Cientista de dados/Roadmap.md"
+                "file": "Dev/Cientista de dados/cientista de dados.md"
               }
             }
           },
@@ -168,47 +168,47 @@
       "workspaces:Gerenciar leiautes da área de trabalho": false
     }
   },
-  "active": "0856d816664a5b5c",
+  "active": "9db1a7bf08d14cbb",
   "lastOpenFiles": [
-    "Dev/Testes/Unitarios.md",
-    "Dev/Testes/Integração.md",
-    "Dev/Testes/End-to-end.md",
-    "Gastronomia/Massa/Carbonara.md",
-    "Gastronomia/Imagens/Pasted image 20240921131517.png",
-    "Gastronomia/Massa/Fettuccine alfredo.md",
-    "Gastronomia/Massa/Fettuccine.md",
-    "Gastronomia/Imagens/Pasted image 20240921124912.png",
+    "ETL.md",
+    "Dev/Cientista de dados/cientista de dados.md",
+    "Dev/Linguagens/Python/NumPy.md",
+    "Dev/Linguagens/Python/Pandas.md",
+    "Dev/Linguagens/Python/Matplotlib.md",
+    "Dev/Linguagens/Python/Python.md",
+    "Dev/Armazenamento de Dados/Bancos de Dados em Memória/Redis.md",
+    "Dev/Armazenamento de Dados/Bancos de Dados Relacionais (RDBMS)/MySQL.md",
+    "Dev/Armazenamento de Dados/Bancos de Dados NoSQL/NoSQL.md",
+    "Dev/Armazenamento de Dados/Data Lakes/Data Lake.md",
+    "Dev/Armazenamento de Dados/Data Warehouses/Data Warehouse.md",
+    "Dev/Armazenamento de Dados/Databases.md",
+    "Dev/Armazenamento de Dados/Armazenamento em nuvem.md",
+    "Dev/Armazenamento de Dados/Bancos de Dados em Memória",
+    "Dev/Armazenamento de Dados/Bancos de Dados em Nuvem",
+    "Dev/Armazenamento de Dados/Data Warehouses",
+    "Dev/Armazenamento de Dados/Bancos de Dados Relacionais (RDBMS)/SQL.md",
+    "Dev/Armazenamento de Dados/Data Lakes",
+    "Dev/Cientista de dados/ETL & ELT/ETL vs ELT.md",
+    "Dev/Cientista de dados/ETL & ELT/Load.md",
+    "Dev/Cientista de dados/ETL & ELT/Transform.md",
+    "Dev/Cientista de dados/ETL & ELT/Extract.md",
+    "Dev/Cientista de dados/DataFrame.md",
+    "Dev/Cientista de dados/ETL & ELT",
+    "Dev/Cientista de dados/Dataset.md",
+    "Dev/Cientista de dados/Apache Spark.md",
+    "Dev/Cientista de dados/RDD.md",
+    "Dev/Cientista de dados/RDD vs DataFrame vs Dataset.md",
     "Dev/Cientista de dados/Roadmap.md",
-    "Untitled.md",
+    "Dev/Armazenamento de Dados/DTO.md",
+    "Dev/Documentação/Orçamento/Mídia ABCCOM.md",
+    "Dev/Portfolio",
+    "Dev/Bibliotecas & Frameworks",
+    "Dev/Linguagens/CSS",
+    "Gastronomia/Imagens/Pasted image 20240921131517.png",
+    "Gastronomia/Imagens/Pasted image 20240921124912.png",
     "Dev/Roadmap Engenharia de dados/Sem título",
     "Dev/Cientista de dados",
-    "Gastronomia/Massa/Fettuccine",
-    "Gastronomia/Massa/Massa Fresca.md",
-    "Culinária/Massa/Hidratação.md",
-    "Culinária/Massa/Molho/Sem título.md",
-    "Culinária/Massa/Molho",
-    "Gastronomia/Hamburguer",
-    "Dev/Ferramentas/Message Broker/Apache Kafka/Apache Kafka.md",
-    "Eletrônica/Projetos/Transmissor de som por luz.md",
-    "Física/Eletricidade/Eletricidade.md",
-    "Jogos/Destiny/Raid/Câmara de cristal/New Light/Confluxo.md",
-    "Gastronomia/Caldos/Caldo de Legumes.md",
-    "Culinária/Untitled 1",
-    "Gastronomia/Memorias",
-    "Gastronomia/Manteiga doce.md",
     "Gastronomia/Imagens/Pasted image 20240903171636.png",
-    "Gastronomia/Mexicana/Guacamole.md",
-    "Gastronomia/Molho/Maionese.md",
-    "Dev/Protocolos/gRPC.md",
-    "Gastronomia/Drink",
-    "Dev/Protocolos/TCP.md",
-    "Dev/Protocolos/IP.md",
-    "Dev/Portfolio/todo.md",
-    "Dev/Portfolio/let me ask.md",
-    "Dev/Portfolio/Flow Field.md",
-    "Dev/Portfolio/gRPC.md",
-    "Dev/Projetos/Homebroker ingressos",
-    "Dev/Documentação/Orçamento",
     "Gastronomia/Imagens/Pasted image 20240821040125.png",
     "Gastronomia/Imagens/Pasted image 20231212194502.png",
     "Gastronomia/Imagens/Pasted image 20240818063642.png",

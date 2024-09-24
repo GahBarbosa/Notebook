@@ -1,0 +1,1 @@
+**Load (Carregamento)**: Na Os dados são carregados em um sistema de destino, que geralmente é um data warehouse ou um banco de dados analítico. Essa fase pode ser realizada em tempo real ou em lotes, dependendo das necessidades do negócio. O carregamento deve ser feito de forma que os dados fiquem facilmente acessíveis para consultas e análises futuras.
