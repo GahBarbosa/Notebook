@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "Gastronomia/Memorias/Spoleto Day.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Gastronomia/Memorias/Spoleto Day.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Gastronomia/Memorias/Spoleto Day.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Gastronomia/Memorias/Spoleto Day.md"
               }
             }
           },
@@ -183,8 +183,22 @@
   },
   "active": "13686e9594a0c21a",
   "lastOpenFiles": [
-    "Dev/Cientista de dados/cientista de dados.md",
+    "Gastronomia/Memorias/Imagens/Pasted image 20240924054318.png",
+    "Gastronomia/Memorias/Imagens",
+    "Gastronomia/Memorias/Spoleto Day.md",
+    "Gastronomia/Memorias/Imagens/Pasted image 20240924054433.png",
+    "Gastronomia/Memorias/Imagens/Pasted image 20240924054426.png",
+    "Gastronomia/Memorias/Imagens/Pasted image 20240924054421.png",
+    "Gastronomia/Memorias/Imagens/Pasted image 20240924054416.png",
+    "Gastronomia/Memorias/Imagens/Pasted image 20240924054411.png",
+    "Gastronomia/Memorias/Imagens/Pasted image 20240924054407.png",
+    "Gastronomia/Memorias/Imagens/Pasted image 20240924054357.png",
+    "Gastronomia/Memorias/Imagens/Pasted image 20240924054352.png",
+    "Gastronomia/Memorias/Imagens/Pasted image 20240924054338.png",
+    "Gastronomia/Memorias/Imagens/Pasted image 20240924054329.png",
     "README.md",
+    "Gastronomia/Sem título",
+    "Dev/Cientista de dados/cientista de dados.md",
     "RE.txt",
     "Novo Documento de Texto.txt",
     "ETL.md",
@@ -214,20 +228,7 @@
     "Dev/Cientista de dados/Apache Spark.md",
     "Dev/Cientista de dados/RDD.md",
     "Dev/Cientista de dados/RDD vs DataFrame vs Dataset.md",
-    "Dev/Cientista de dados/Roadmap.md",
     "Dev/Portfolio",
-    "Dev/Bibliotecas & Frameworks",
-    "Dev/Linguagens/CSS",
-    "Gastronomia/Imagens/Pasted image 20240921131517.png",
-    "Gastronomia/Imagens/Pasted image 20240921124912.png",
-    "Gastronomia/Imagens/Pasted image 20240903171636.png",
-    "Gastronomia/Imagens/Pasted image 20240821040125.png",
-    "Gastronomia/Imagens/Pasted image 20231212194502.png",
-    "Gastronomia/Imagens/Pasted image 20240818063642.png",
-    "Gastronomia/Imagens/Pasted image 20240818063848.png",
-    "Gastronomia/Imagens/Pasted image 20240818062018.png",
-    "Gastronomia/Imagens/Pasted image 20240818061942.png",
-    "Gastronomia/Imagens/Pasted image 20240818060933.png",
     "Destiny/Raid/Câmara de cristal/New Light/Sem título.canvas",
     "Sem título.canvas"
   ]
