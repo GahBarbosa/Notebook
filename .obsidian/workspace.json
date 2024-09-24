@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "13686e9594a0c21a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev/Cientista de dados/cientista de dados.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev/Cientista de dados/cientista de dados.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dev/Cientista de dados/cientista de dados.md"
+                "file": "README.md"
               }
             }
           },
@@ -168,10 +181,13 @@
       "workspaces:Gerenciar leiautes da área de trabalho": false
     }
   },
-  "active": "9db1a7bf08d14cbb",
+  "active": "13686e9594a0c21a",
   "lastOpenFiles": [
-    "ETL.md",
     "Dev/Cientista de dados/cientista de dados.md",
+    "README.md",
+    "RE.txt",
+    "Novo Documento de Texto.txt",
+    "ETL.md",
     "Dev/Linguagens/Python/NumPy.md",
     "Dev/Linguagens/Python/Pandas.md",
     "Dev/Linguagens/Python/Matplotlib.md",
@@ -199,15 +215,11 @@
     "Dev/Cientista de dados/RDD.md",
     "Dev/Cientista de dados/RDD vs DataFrame vs Dataset.md",
     "Dev/Cientista de dados/Roadmap.md",
-    "Dev/Armazenamento de Dados/DTO.md",
-    "Dev/Documentação/Orçamento/Mídia ABCCOM.md",
     "Dev/Portfolio",
     "Dev/Bibliotecas & Frameworks",
     "Dev/Linguagens/CSS",
     "Gastronomia/Imagens/Pasted image 20240921131517.png",
     "Gastronomia/Imagens/Pasted image 20240921124912.png",
-    "Dev/Roadmap Engenharia de dados/Sem título",
-    "Dev/Cientista de dados",
     "Gastronomia/Imagens/Pasted image 20240903171636.png",
     "Gastronomia/Imagens/Pasted image 20240821040125.png",
     "Gastronomia/Imagens/Pasted image 20231212194502.png",
