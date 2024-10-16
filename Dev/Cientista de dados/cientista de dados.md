@@ -37,3 +37,4 @@ Um **Cientista de Dados** é um profissional que utiliza técnicas de estatísti
 
 ### Conclusão
 Um Cientista de Dados desempenha um papel vital na transformação de dados brutos em insights acionáveis. Suas responsabilidades vão desde a coleta e limpeza de dados até a comunicação de resultados e implementação de modelos em produção. Este trabalho exige um conjunto diversificado de habilidades em estatística, programação, visualização de dados e comunicação, além de um entendimento profundo do domínio de negócios.
+![[Pasted image 20240924063803.png]]

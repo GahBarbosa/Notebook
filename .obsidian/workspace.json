@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "fd231d5a2bdf333d",
+        "id": "91de25ede3b658c7",
         "type": "tabs",
         "children": [
           {
-            "id": "9db1a7bf08d14cbb",
+            "id": "6097f1add7ce67c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/Cientista de dados/cientista de dados.md",
+                "file": "Gastronomia/Mexicana/Tortilha.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "13686e9594a0c21a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gastronomia/Memorias/Spoleto Day.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -71,7 +58,7 @@
             }
           },
           {
-            "id": "8492a41d831c44c4",
+            "id": "095367bae104fdc2",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -79,18 +66,27 @@
             }
           },
           {
-            "id": "dd997b8a9f793b69",
+            "id": "2a17ff71f2d8b685",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "de8c401b53071506",
             "type": "leaf",
             "state": {
               "type": "tagfolder-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 373.5
+    "width": 366.5
   },
   "right": {
     "id": "dfd67e4050309cbf",
@@ -106,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gastronomia/Memorias/Spoleto Day.md",
+                "file": "Gastronomia/Mexicana/Tortilha.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gastronomia/Memorias/Spoleto Day.md",
+                "file": "Gastronomia/Mexicana/Tortilha.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gastronomia/Memorias/Spoleto Day.md"
+                "file": "Gastronomia/Mexicana/Tortilha.md"
               }
             }
           },
@@ -181,11 +177,38 @@
       "workspaces:Gerenciar leiautes da área de trabalho": false
     }
   },
-  "active": "13686e9594a0c21a",
+  "active": "6097f1add7ce67c2",
   "lastOpenFiles": [
+    "Gastronomia/Mexicana/Tortilha.md",
+    "Gastronomia/Mexicana/Tortilha Tradicional.md",
+    "Gastronomia/Mexicana/Tacos.md",
+    "Gastronomia/Mexicana/Salsa.md",
+    "Gastronomia/Mexicana/Guacamole.md",
+    "Gastronomia/Mexicana/Creme azedo.md",
+    "Gastronomia/Mexicana/Tacos/Chili.md",
+    "Gastronomia/Mexicana/Tacos/Frango.md",
+    "Gastronomia/Restaurantes/A visitar.md",
+    "Sem título.md",
+    "Sem título 1.md",
+    "Dev/Cientista de dados/Roadmap.md",
+    "Dev/Cientista de dados/Apache Airflow.md",
+    "Dev/Cientista de dados/RDD vs DataFrame vs Dataset.md",
+    "Dev/Cientista de dados/RDD.md",
+    "Dev/Cientista de dados/Polars.md",
+    "Dev/Cientista de dados/DBT Labs.md",
+    "Dev/Cientista de dados/Dataset.md",
+    "Dev/Cientista de dados/DataFrame.md",
+    "Dev/Cientista de dados/cientista de dados.md",
+    "Dev/Cientista de dados/ETL & ELT/ETL vs ELT.md",
+    "Dev/Cientista de dados/ETL & ELT/Extract.md",
+    "Dev/Cientista de dados/ETL & ELT/Load.md",
+    "Dev/Cientista de dados/ETL & ELT/Transform.md",
+    "Dev/Cientista de dados/Apache Spark.md",
+    "README.md",
+    "Dev/Imagens/Pasted image 20240924063803.png",
+    "Dev/Documentação/Conceitos",
     "Gastronomia/Memorias/Imagens/Pasted image 20240924054318.png",
     "Gastronomia/Memorias/Imagens",
-    "Gastronomia/Memorias/Spoleto Day.md",
     "Gastronomia/Memorias/Imagens/Pasted image 20240924054433.png",
     "Gastronomia/Memorias/Imagens/Pasted image 20240924054426.png",
     "Gastronomia/Memorias/Imagens/Pasted image 20240924054421.png",
@@ -194,41 +217,14 @@
     "Gastronomia/Memorias/Imagens/Pasted image 20240924054407.png",
     "Gastronomia/Memorias/Imagens/Pasted image 20240924054357.png",
     "Gastronomia/Memorias/Imagens/Pasted image 20240924054352.png",
-    "Gastronomia/Memorias/Imagens/Pasted image 20240924054338.png",
-    "Gastronomia/Memorias/Imagens/Pasted image 20240924054329.png",
-    "README.md",
     "Gastronomia/Sem título",
-    "Dev/Cientista de dados/cientista de dados.md",
     "RE.txt",
     "Novo Documento de Texto.txt",
-    "ETL.md",
-    "Dev/Linguagens/Python/NumPy.md",
-    "Dev/Linguagens/Python/Pandas.md",
-    "Dev/Linguagens/Python/Matplotlib.md",
-    "Dev/Linguagens/Python/Python.md",
-    "Dev/Armazenamento de Dados/Bancos de Dados em Memória/Redis.md",
-    "Dev/Armazenamento de Dados/Bancos de Dados Relacionais (RDBMS)/MySQL.md",
-    "Dev/Armazenamento de Dados/Bancos de Dados NoSQL/NoSQL.md",
-    "Dev/Armazenamento de Dados/Data Lakes/Data Lake.md",
-    "Dev/Armazenamento de Dados/Data Warehouses/Data Warehouse.md",
-    "Dev/Armazenamento de Dados/Databases.md",
-    "Dev/Armazenamento de Dados/Armazenamento em nuvem.md",
     "Dev/Armazenamento de Dados/Bancos de Dados em Memória",
     "Dev/Armazenamento de Dados/Bancos de Dados em Nuvem",
     "Dev/Armazenamento de Dados/Data Warehouses",
-    "Dev/Armazenamento de Dados/Bancos de Dados Relacionais (RDBMS)/SQL.md",
     "Dev/Armazenamento de Dados/Data Lakes",
-    "Dev/Cientista de dados/ETL & ELT/ETL vs ELT.md",
-    "Dev/Cientista de dados/ETL & ELT/Load.md",
-    "Dev/Cientista de dados/ETL & ELT/Transform.md",
-    "Dev/Cientista de dados/ETL & ELT/Extract.md",
-    "Dev/Cientista de dados/DataFrame.md",
     "Dev/Cientista de dados/ETL & ELT",
-    "Dev/Cientista de dados/Dataset.md",
-    "Dev/Cientista de dados/Apache Spark.md",
-    "Dev/Cientista de dados/RDD.md",
-    "Dev/Cientista de dados/RDD vs DataFrame vs Dataset.md",
-    "Dev/Portfolio",
     "Destiny/Raid/Câmara de cristal/New Light/Sem título.canvas",
     "Sem título.canvas"
   ]

@@ -3,7 +3,7 @@
 
 - 1 xícara de creme de leite fresco (ou creme de leite para chantilly)
 - 1 a 2 colheres de sopa de suco de limão ou vinagre branco
-- Uma pitada de sal (opcional)
+- Uma pitada de sal
 
 ### Instruções:
 

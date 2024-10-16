@@ -1,5 +1,5 @@
 ### O que é o Apache Spark?
-O Apache Spark é uma plataforma de processamento de dados em larga escala, projetada para ser rápida, fácil de usar e versátil. Ele permite o processamento de grandes volumes de dados de forma distribuída em clusters de computadores, suportando uma variedade de linguagens de programação, como Scala, Python, Java e R. O Spark é especialmente conhecido por suas capacidades de processamento em memória, que aceleram as operações em comparação com sistemas tradicionais que dependem de disco.
+O Apache Spark é uma plataforma de processamento de dados em larga escala, projetada para ser rápida, fácil de usar e versátil. Ele permite o processamento de grandes volumes de dados de forma distribuída em clusters de computadores, suportando uma variedade de linguagens de programação, como Scala, [[Python]], Java e R. O Spark é especialmente conhecido por suas capacidades de processamento em memória, que aceleram as operações em comparação com sistemas tradicionais que dependem de disco.
 
 ### Como Funciona?
 O Apache Spark opera em um modelo de computação distribuída. Ele divide o processamento de dados em tarefas que são distribuídas por vários nós em um cluster. A arquitetura do Spark é composta por:
