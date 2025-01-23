@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "91de25ede3b658c7",
+        "id": "131cf1be208fe629",
         "type": "tabs",
         "children": [
           {
-            "id": "6097f1add7ce67c2",
+            "id": "ac4a64c9e187d063",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gastronomia/Mexicana/Tortilha.md",
+                "file": "Gastronomia/Pratos/Arroz caldoso com fraldinha.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Arroz caldoso com fraldinha"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -48,13 +52,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "grpc",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
             }
           },
           {
@@ -62,15 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
-            "id": "2a17ff71f2d8b685",
-            "type": "leaf",
-            "state": {
-              "type": "tagfolder-view",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
             }
           },
           {
@@ -78,15 +78,16 @@
             "type": "leaf",
             "state": {
               "type": "tagfolder-view",
-              "state": {}
+              "state": {},
+              "icon": "stacked-levels",
+              "title": "Tag Folder"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 366.5
+    "width": 242.5
   },
   "right": {
     "id": "dfd67e4050309cbf",
@@ -102,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gastronomia/Mexicana/Tortilha.md",
+                "file": "Gastronomia/Sopas/Locro de papa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Locro de papa"
             }
           },
           {
@@ -119,10 +122,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gastronomia/Mexicana/Tortilha.md",
+                "file": "Gastronomia/Sopas/Locro de papa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Locro de papa"
             }
           },
           {
@@ -133,7 +138,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -142,8 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gastronomia/Mexicana/Tortilha.md"
-              }
+                "file": "Gastronomia/Sopas/Locro de papa.md"
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Locro de papa"
             }
           },
           {
@@ -155,7 +164,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ],
@@ -177,54 +188,54 @@
       "workspaces:Gerenciar leiautes da área de trabalho": false
     }
   },
-  "active": "6097f1add7ce67c2",
+  "active": "ac4a64c9e187d063",
   "lastOpenFiles": [
-    "Gastronomia/Mexicana/Tortilha.md",
-    "Gastronomia/Mexicana/Tortilha Tradicional.md",
-    "Gastronomia/Mexicana/Tacos.md",
-    "Gastronomia/Mexicana/Salsa.md",
-    "Gastronomia/Mexicana/Guacamole.md",
-    "Gastronomia/Mexicana/Creme azedo.md",
-    "Gastronomia/Mexicana/Tacos/Chili.md",
-    "Gastronomia/Mexicana/Tacos/Frango.md",
+    "Gastronomia/Pratos/Filé mignon ao Molho Madeira de Bacon.md",
+    "Gastronomia/Pratos/Arroz caldoso com fraldinha.md",
+    "Gastronomia/Queijo/Queijo.md",
     "Gastronomia/Restaurantes/A visitar.md",
+    "Gastronomia/Lanches/Shawarma.md",
+    "Gastronomia/Lanches",
+    "Gastronomia/Memorias/Spoleto Day.md",
+    "Destiny/Imagens/Pasted image 20250122211139.png",
+    "Gastronomia/Pão/Pita.md",
+    "Destiny/Imagens/Pasted image 20250122204421.png",
+    "Gastronomia/Temperos/Composto/Pimenta síria.md",
+    "Destiny/Imagens/Pasted image 20250121165456.png",
+    "Gastronomia/Temperos/Composto/Garam masala.md",
+    "Destiny/Imagens/Pasted image 20250121165328.png",
+    "Gastronomia/Temperos/Composto",
+    "README.md",
+    "Gastronomia/Temperos/Blends",
+    "Gastronomia/Temperos",
     "Sem título.md",
     "Sem título 1.md",
-    "Dev/Cientista de dados/Roadmap.md",
-    "Dev/Cientista de dados/Apache Airflow.md",
-    "Dev/Cientista de dados/RDD vs DataFrame vs Dataset.md",
-    "Dev/Cientista de dados/RDD.md",
-    "Dev/Cientista de dados/Polars.md",
-    "Dev/Cientista de dados/DBT Labs.md",
-    "Dev/Cientista de dados/Dataset.md",
-    "Dev/Cientista de dados/DataFrame.md",
-    "Dev/Cientista de dados/cientista de dados.md",
-    "Dev/Cientista de dados/ETL & ELT/ETL vs ELT.md",
-    "Dev/Cientista de dados/ETL & ELT/Extract.md",
-    "Dev/Cientista de dados/ETL & ELT/Load.md",
-    "Dev/Cientista de dados/ETL & ELT/Transform.md",
-    "Dev/Cientista de dados/Apache Spark.md",
-    "README.md",
+    "Prova Fatec 2º sem 2024.md",
+    "Prova Fatec 1º 2025.md",
+    "Gastronomia/Drink/Pontal.md",
+    "Gastronomia/Pão",
+    "Gastronomia/Massa/Gnocchi.md",
+    "Destiny/Imagens/Pasted image 20241120105445.png",
+    "Gastronomia/Massa/Massa Fresca.md",
+    "Gastronomia/Massa/Fettuccine com Carne Seca e Creme de Ricota.md",
+    "Gastronomia/Massa/Fettuccine alfredo.md",
+    "Gastronomia/Técnicas/Azeite aromatizado.md",
+    "Gastronomia/Mexicana/Tortilha Tradicional.md",
+    "Gastronomia/Risoto/Risoto.md",
+    "Gastronomia/Risoto/Risotto de abóbora.md",
+    "Design/Paleta de cores.md",
+    "Design/Criativo.md",
+    "Design/Tipografia.md",
+    "Dev/Ferramentas/Git",
+    "Dev/Projetos/React/Finance",
+    "Destiny/Imagens/Pasted image 20241023084158.png",
+    "Destiny/Imagens/Pasted image 20241023084209.png",
+    "Gastronomia/Imagens/Pasted image 20241104201326.png",
+    "Gastronomia/Risoto",
+    "Matemática/Estatística/UNIDADE_1_Estatística Descritiva.pdf",
+    "Matemática/Estatística",
     "Dev/Imagens/Pasted image 20240924063803.png",
-    "Dev/Documentação/Conceitos",
     "Gastronomia/Memorias/Imagens/Pasted image 20240924054318.png",
-    "Gastronomia/Memorias/Imagens",
-    "Gastronomia/Memorias/Imagens/Pasted image 20240924054433.png",
-    "Gastronomia/Memorias/Imagens/Pasted image 20240924054426.png",
-    "Gastronomia/Memorias/Imagens/Pasted image 20240924054421.png",
-    "Gastronomia/Memorias/Imagens/Pasted image 20240924054416.png",
-    "Gastronomia/Memorias/Imagens/Pasted image 20240924054411.png",
-    "Gastronomia/Memorias/Imagens/Pasted image 20240924054407.png",
-    "Gastronomia/Memorias/Imagens/Pasted image 20240924054357.png",
-    "Gastronomia/Memorias/Imagens/Pasted image 20240924054352.png",
-    "Gastronomia/Sem título",
-    "RE.txt",
-    "Novo Documento de Texto.txt",
-    "Dev/Armazenamento de Dados/Bancos de Dados em Memória",
-    "Dev/Armazenamento de Dados/Bancos de Dados em Nuvem",
-    "Dev/Armazenamento de Dados/Data Warehouses",
-    "Dev/Armazenamento de Dados/Data Lakes",
-    "Dev/Cientista de dados/ETL & ELT",
     "Destiny/Raid/Câmara de cristal/New Light/Sem título.canvas",
     "Sem título.canvas"
   ]
