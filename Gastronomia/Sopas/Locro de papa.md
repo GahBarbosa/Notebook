@@ -1,5 +1,3 @@
-Ensopado do [[Equador]] de batatas e queijo (2 porções)
-
 ## Ingredientes 
 - 350g de batata
 - 150g de [[Queijo Fresco]] 

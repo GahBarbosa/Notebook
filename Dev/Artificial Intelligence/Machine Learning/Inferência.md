@@ -1,0 +1,1 @@
+**Inferência em Machine Learning** é o processo de usar um modelo já treinado para fazer previsões ou tomar decisões com base em novos dados.

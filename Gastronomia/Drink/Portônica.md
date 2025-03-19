@@ -1,3 +1,5 @@
+![[Pasted image 20231212171808.png|500]]
+
 #### Ingredientes
 
 -  30 ml de [[Porto]]
@@ -12,4 +14,3 @@
 
 
 
-![[Pasted image 20231212171808.png|500]]

@@ -1,4 +1,4 @@
-#Incompleto
+#Fazer 
 ## Áudio para luz
 Transformar a frequência sonora em luz
 - O [[LED]] terá será ligado a frequência sonora o que fará ele piscar e transmitir lá 

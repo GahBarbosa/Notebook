@@ -1,6 +1,6 @@
 [Repositório com exemplos](https://github.com/GahBarbosa/Jwt-Node-PostgreSQL)
 
-É um padrão (RFC 7519) que define uma maneira compacta e independente de transmitir informações com segurança entre as partes como um objeto JSON. Os JWTs podem ser assinados usando um segredo (com o algoritmo HMAC) ou um par de chaves pública/privada usando RSA ou ECDSA.
+É um padrão (RFC 7519) que define uma maneira compacta e independente de transmitir informações com segurança entre as partes como um objeto [[JSON]]. Os JWTs podem ser assinados usando um segredo (com o algoritmo HMAC) ou um par de chaves pública/privada usando RSA ou ECDSA.
 
 O JSON Web Token consiste em três partes separadas por pontos, que são Header, Payload, Signature, um JWT geralmente se parece com o seguinte:
 ```

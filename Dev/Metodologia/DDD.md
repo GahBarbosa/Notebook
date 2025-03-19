@@ -44,7 +44,7 @@ Devemos definir também os relacionamentos e associações entre esses termos, c
 - Existem três tipos de `Usuário`: `Aluno`, `Professor` e `UsuárioExterno`.
 - O `Acervo` da biblioteca é formado por um conjunto de `Livros`.
 
-Para documentar esses relacionamentos pode ser usado um [[Diagrama de Classe]] de UML. No entanto, esse diagrama pode ser simples e leve. Ele não precisa, por exemplo, incluir todos os atributos e métodos de cada classe.
+Para documentar esses relacionamentos pode ser usado um [[Dev/Conceitos/Diagrama de Classe]] de UML. No entanto, esse diagrama pode ser simples e leve. Ele não precisa, por exemplo, incluir todos os atributos e métodos de cada classe.
 
 ## Objetos de Domínio
 

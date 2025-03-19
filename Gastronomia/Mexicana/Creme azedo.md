@@ -1,13 +1,13 @@
 ![[Pasted image 20240818062018.png]]
 ### Ingredientes:
 
-- 1 xícara de creme de leite fresco (ou creme de leite para chantilly)
+- 1 xícara de cream cheese
 - 1 a 2 colheres de sopa de suco de limão ou vinagre branco
 - Uma pitada de sal
 
 ### Instruções:
 
-1. **Misture os ingredientes:** Em uma tigela, combine o creme de leite e o suco de limão ou vinagre. O ácido ajuda a acidificar o creme de leite, criando a textura e o sabor característicos do creme azedo.
+1. **Misture os ingredientes:** Em uma tigela, combine o cream cheese e o suco de limão ou vinagre. O ácido ajuda a acidificar o creme de leite, criando a textura e o sabor característicos do creme azedo.
     
 2. **Misture bem:** Mexa bem a mistura para garantir que o ácido esteja bem distribuído.
     

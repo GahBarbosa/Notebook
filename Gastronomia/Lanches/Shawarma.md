@@ -4,7 +4,7 @@
 #### Para a carne:
 
 - 2 filés de frango, carne bovina ou cordeiro (corte em tiras finas)
-- 1/2 colher de chá de garam masala 
+- 1/2 colher de chá de [[Garam masala]] 
 - 1/2 colher de chá de gengibre em pó 
 - 1/3 colher de chá de pimenta calabresa 
 - 1/2 colher de chá de cominho em pó 
@@ -12,7 +12,7 @@
 - 1/2 colher de chá de tomilho 
 - 1/2 colher de chá de pimenta caiena 
 - 1/2 colher de chá de cebola em pó 
-- 1/2 colher de chá de pimenta siria 
+- 1/2 colher de chá de [[Pimenta síria]]
 - 1/2 colher de chá de zaatar 
 #### Para o molho:
 

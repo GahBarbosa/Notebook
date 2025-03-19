@@ -1,5 +1,5 @@
 ![[Pasted image 20240821040125.png]]
-### Ingredientes
+### **Ingredientes**
 
 - 1 xícara de azeite de oliva extra virgem
 - 2 ramos de alecrim fresco (ou ervas de sua escolha, como tomilho, manjericão, orégano, etc.)
@@ -7,7 +7,7 @@
 - Pimenta-do-reino em grãos (opcional)
 - 1 frasco de vidro limpo e seco com tampa
 
-### Instruções
+### **Instruções**
 
 1. **Preparar as ervas:**
     

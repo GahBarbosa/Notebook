@@ -1,4 +1,4 @@
-Uma arquitetura monolítica é um modelo tradicional de software, construído como uma unidade unificada, independente e independente de outros aplicativos. Para fazer uma alteração nesse tipo de aplicativo, é necessário atualizar toda a pilha acessando a base de código e construindo e implantando uma versão atualizada da interface do lado do serviço. Isso torna as atualizações restritivas e demoradas.
+Uma arquitetura monolítica é um modelo de software, construído como uma unidade unificada, independente e independente de outros aplicativos. Para fazer uma alteração nesse tipo de aplicativo, é necessário atualizar toda a pilha acessando a base de código e construindo e implantando uma versão atualizada da interface do lado do serviço. Isso torna as atualizações restritivas e demoradas.
 
 Os monólitos podem ser convenientes no início da vida de um projeto para facilitar o gerenciamento de código, sobrecarga cognitiva e implantação. Isso permite que tudo no monólito seja liberado de uma só vez.
 

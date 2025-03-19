@@ -17,6 +17,3 @@ Em seguida, o engenheiro de banco de dados vincula a tabela de produtos à tabel
 |---|---|
 |Cor 1|Azul|
 |Cor 2|Vermelha|
-
-[[PostgreSQL]]
-[[MySQL]]
