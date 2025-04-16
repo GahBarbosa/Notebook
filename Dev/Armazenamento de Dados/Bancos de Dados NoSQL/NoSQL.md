@@ -90,7 +90,7 @@ Um banco de dados de mecanismo de pesquisa é um tipo de banco de dados não r
 
 ## Quais são as diferenças entre bancos de dados NoSQL e SQL
 
-Os bancos de dados [[SQL]] modelam relacionamentos de dados como tabelas. As linhas na tabela representam uma coleção de valores relacionados de um objeto ou de uma entidade. Cada coluna na tabela representa um atributo de dados, e um campo (ou célula da tabela) armazena o valor real do atributo. Você pode usar um sistema de gerenciamento de banco de dados relacional (RDBMS) para acessar os dados de várias maneiras diferentes sem reorganizar as próprias tabelas do banco de dados. As principais diferenças entre bancos de dados relacionais e não relacionais são apresentadas na tabela abaixo.
+Os bancos de dados [[Dev/Armazenamento de Dados/Bancos de Dados Relacionais (RDBMS)/SQL]] modelam relacionamentos de dados como tabelas. As linhas na tabela representam uma coleção de valores relacionados de um objeto ou de uma entidade. Cada coluna na tabela representa um atributo de dados, e um campo (ou célula da tabela) armazena o valor real do atributo. Você pode usar um sistema de gerenciamento de banco de dados relacional (RDBMS) para acessar os dados de várias maneiras diferentes sem reorganizar as próprias tabelas do banco de dados. As principais diferenças entre bancos de dados relacionais e não relacionais são apresentadas na tabela abaixo.
 
 |   |   |   |
 |---|---|---|

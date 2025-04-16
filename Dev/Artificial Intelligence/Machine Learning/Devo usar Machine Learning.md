@@ -1,4 +1,3 @@
-
 ##### **Quando usar Machine Learning**
 
  1. **O Problema é Complexo ou Não Tem uma Regra Definida**

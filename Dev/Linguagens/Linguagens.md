@@ -19,7 +19,7 @@ Estilização
 	[[CSS]]
 
 Banco de dados
-	[[SQL]]
+	[[Dev/Armazenamento de Dados/Bancos de Dados Relacionais (RDBMS)/SQL]]
 
 A aprender
 	[[Angular]]

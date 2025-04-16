@@ -1,4 +1,4 @@
-GraphQL significa Graph Query Language, é uma linguagem de query assim como [[SQL]] (Structured Query Language) porém seu uso não envolve implementar banco de dados, mas ser uma alternativa para a arquitetura da Api [[REST]]
+GraphQL significa Graph Query Language, é uma linguagem de query assim como [[Dev/Armazenamento de Dados/Bancos de Dados Relacionais (RDBMS)/SQL]] (Structured Query Language) porém seu uso não envolve implementar banco de dados, mas ser uma alternativa para a arquitetura da Api [[REST]]
 
 Com [[REST]], você precisa fazer três solicitações para diferentes endpoints para buscar os dados necessários. Você também está fazendo overfetching, pois os endpoints retornam informações adicionais que não são necessárias.![[Pasted image 20230807045301.png]]
 

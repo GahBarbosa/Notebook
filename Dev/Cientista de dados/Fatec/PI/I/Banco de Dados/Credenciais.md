@@ -1,0 +1,28 @@
+```sql
+psql "postgres://neondb_owner:npg_l3uQxHVGjZy7@ep-yellow-poetry-a59t1odj-pooler.us-east-2.aws.neon.tech/neondb?sslmode=require"
+```
+
+```bash
+# Recommended for most uses
+DATABASE_URL=postgres://neondb_owner:npg_l3uQxHVGjZy7@ep-yellow-poetry-a59t1odj-pooler.us-east-2.aws.neon.tech/neondb?sslmode=require
+
+# For uses requiring a connection without pgbouncer
+DATABASE_URL_UNPOOLED=postgresql://neondb_owner:npg_l3uQxHVGjZy7@ep-yellow-poetry-a59t1odj.us-east-2.aws.neon.tech/neondb?sslmode=require
+
+# Parameters for constructing your own connection string
+PGHOST=ep-yellow-poetry-a59t1odj-pooler.us-east-2.aws.neon.tech
+PGHOST_UNPOOLED=ep-yellow-poetry-a59t1odj.us-east-2.aws.neon.tech
+PGUSER=neondb_owner
+PGDATABASE=neondb
+PGPASSWORD=npg_l3uQxHVGjZy7
+
+# Parameters for Vercel Postgres Templates
+POSTGRES_URL=postgres://neondb_owner:npg_l3uQxHVGjZy7@ep-yellow-poetry-a59t1odj-pooler.us-east-2.aws.neon.tech/neondb?sslmode=require
+POSTGRES_URL_NON_POOLING=postgres://neondb_owner:npg_l3uQxHVGjZy7@ep-yellow-poetry-a59t1odj.us-east-2.aws.neon.tech/neondb?sslmode=require
+POSTGRES_USER=neondb_owner
+POSTGRES_HOST=ep-yellow-poetry-a59t1odj-pooler.us-east-2.aws.neon.tech
+POSTGRES_PASSWORD=npg_l3uQxHVGjZy7
+POSTGRES_DATABASE=neondb
+POSTGRES_URL_NO_SSL=postgres://neondb_owner:npg_l3uQxHVGjZy7@ep-yellow-poetry-a59t1odj-pooler.us-east-2.aws.neon.tech/neondb
+POSTGRES_PRISMA_URL=postgres://neondb_owner:npg_l3uQxHVGjZy7@ep-yellow-poetry-a59t1odj-pooler.us-east-2.aws.neon.tech/neondb?connect_timeout=15&sslmode=require
+```

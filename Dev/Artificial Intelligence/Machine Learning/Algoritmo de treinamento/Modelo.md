@@ -1,4 +1,4 @@
-Um modelo de machine learning é o algoritmo treinado que é utilizado para identificar padrões nos seus dados. Um modelo é treinado a partir do processo de machine learning, e ele captura e armazena padrões. Quanto mais padrões um modelo armazenar, maior ele será. O tamanho de modelos de machine learning é geralmente descrito em megabytes. O propósito de um modelo é prever os resultados de novas entradas de dados com base em padrões observados previamente
+Um modelo de machine learning é o [[Algoritmo de treinamento]] treinado que é utilizado para identificar padrões nos seus dados. Um modelo é treinado a partir do processo de machine learning, e ele captura e armazena padrões. Quanto mais padrões um modelo armazenar, maior ele será. O tamanho de modelos de machine learning é geralmente descrito em megabytes. O propósito de um modelo é prever os resultados de novas entradas de dados com base em padrões observados previamente
 
 Existem 3 tipos de modelos:
 - [[Supervisionado]]

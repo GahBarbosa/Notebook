@@ -1,4 +1,4 @@
-**Knex.js** é um construtor de consultas SQL para [[Node]].js que fornece uma interface elegante e poderosa para interagir com bancos de dados relacionais. Ele facilita a construção e execução de consultas [[SQL]] de forma programática e oferece recursos adicionais como migrations (migrações), seeders (semeadores) e transações.
+**Knex.js** é um construtor de consultas SQL para [[Node]].js que fornece uma interface elegante e poderosa para interagir com bancos de dados relacionais. Ele facilita a construção e execução de consultas [[Dev/Armazenamento de Dados/Bancos de Dados Relacionais (RDBMS)/SQL]] de forma programática e oferece recursos adicionais como migrations (migrações), seeders (semeadores) e transações.
 
 ### **O que é Knex.js?**
 

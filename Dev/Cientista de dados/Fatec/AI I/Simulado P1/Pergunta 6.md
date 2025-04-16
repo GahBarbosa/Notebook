@@ -1,0 +1,5 @@
+#### Enunciado
+O trecho abaixo foi tirado da revista “Qualé”, edição 49 (6 a 20 de junho de 2022). Explique qual é um problema em potencial advindo de avanços da IA, como o citado abaixo
+![[Pasted image 20250415223139.png]]
+#### Resposta
+Um problema ético em potencial relacionado ao avanço da Inteligência Artificial, como demonstrado na recriação digital do ator Mark Hamill, é o risco de uso indevido da imagem e da identidade de pessoas, vivas ou falecidas, sem consentimento ou controle. Com a capacidade de gerar vídeos e áudios extremamente realistas, torna-se possível criar conteúdos falsos que imitam perfeitamente a aparência e a voz de alguém, podendo ser usados para manipulação de informações, fraudes, ou até difamação. No caso do texto, embora a IA tenha sido usada com fins artísticos e com o conhecimento do estúdio, a tecnologia aplicada sem critérios éticos claros pode ameaçar a privacidade, a autenticidade e até os direitos de imagem das pessoas. Isso levanta discussões importantes sobre regulamentação, transparência e responsabilidade no uso da IA para simulações humanas.
